@@ -78,6 +78,8 @@ use_directory_urls = true
 # ----------------------------------------------------------------------------
 [project.theme]
 
+font.text = "Poppins"
+
 # change this to "classic" to use the traditional Material for MkDocs look.
 #variant = "classic"
 

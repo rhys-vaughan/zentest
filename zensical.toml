@@ -80,7 +80,7 @@ use_directory_urls = true
 
 font.text = "Poppins"
 
-logo = "images/Apteco-logo-core-colour-png.png"
+logo = "images/Apteco-logo-icon.svg"
 
 
 # change this to "classic" to use the traditional Material for MkDocs look.

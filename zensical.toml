@@ -82,6 +82,7 @@ font.text = "Poppins"
 
 logo = "images/Apteco-logo-icon.svg"
 
+favicon = "images/Apteco-logo-icon.svg"
 
 # change this to "classic" to use the traditional Material for MkDocs look.
 #variant = "classic"

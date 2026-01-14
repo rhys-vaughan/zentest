@@ -2,7 +2,7 @@
 icon: lucide/rocket
 ---
 
-# Get started with Apteco
+# Get started with Orbit
 
 For full documentation visit [zensical.org](https://zensical.org/docs/).
 

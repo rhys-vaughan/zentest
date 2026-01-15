@@ -2,7 +2,7 @@
 icon: lucide/rocket
 ---
 
-# Home
+# Welcome to the Apteco Help Hub
 
 For full documentation visit [zensical.org](https://zensical.org/docs/).
 

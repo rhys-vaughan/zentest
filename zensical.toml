@@ -44,8 +44,8 @@ site_dir = "site"
 use_directory_urls = true
 
 nav = [
-   { "Home" = "index.md" },
 
+   { "Home" = "index.md" },
 
    { "Orbit" = [
     "orbit/index.md",
@@ -66,12 +66,18 @@ nav = [
 
    ]},
 
-
    { "FastStats" = "faststats/index.md" },
 
    { "PeopleStage" = "peoplestage/index.md" },
 
+   { "Designer" = "designer/index.md" },
+
+   { "Releases" = "releases/index.md" },
+
+   { "Admin" = "admin/index.md" },   
+
    { "Contact" = "https://www.apteco.com/contact" },
+
  ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -196,7 +202,7 @@ features = [
     # Turn on this feature to expand all collapsible sections in the
     # navigation sidebar by default.
     # https://zensical.org/docs/setup/navigation/#navigation-expansion
-    "navigation.expand",
+    #"navigation.expand",
 
     # This feature turns on navigation elements in the footer that allow the
     # user to navigate to a next or previous page.

@@ -284,15 +284,13 @@ features = [
     #"toc.integrate",
 ]
 
-# ----------------------------------------------------------------------------
-# In the "palette" subsection you can configure options for the color scheme.
-# You can configure different color # schemes, e.g., to turn on dark mode,
-# that the user can switch between. Each color scheme can be further
-# customized.
-#
-# Read more:
-# - https://zensical.org/docs/setup/colors/
-# ----------------------------------------------------------------------------
+[project.extra.tags]
+Orbit = "orbit"
+FastStats = "fastStats"
+PeopleStage = "peopleStage" 
+Designer = "designer"
+Admin = "admin"
+Releases = "releases"
 
 # Palette toggle for light mode
 [[project.theme.palette]]

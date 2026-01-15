@@ -46,40 +46,26 @@ site_dir = "site"
 use_directory_urls = true
 
 nav = [
-
-   { "Home" = "index.md" },
-
+   { "Home" = [
+    "index.md", 
+    { "Admin" = "admin/index.md"},
+    { "Contact" = "https://www.apteco.com/contact" },
+   ]},
    { "Orbit" = [
     "orbit/index.md",
-
     { "Connect" = [
      "orbit/connect/index.md",
-
      { "Data sources" = [
       "orbit/connect/data-sources/index.md",
-
       { "File upload" = "orbit/connect/data-sources/file-upload.md" },
-
      ]}
-
     ]},
-
     { "Dashboards" = "orbit/dashboards/index.md" },
-
    ]},
-
    { "FastStats" = "faststats/index.md" },
-
    { "PeopleStage" = "peoplestage/index.md" },
-
    { "Designer" = "designer/index.md" },
-
-   { "Releases" = "releases/index.md" },
-
-   { "Admin" = "admin/index.md" },   
-
-   { "Contact" = "https://www.apteco.com/contact" },
-
+   { "Releases" = "releases/index.md" },  
  ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -285,12 +271,12 @@ features = [
 ]
 
 [project.extra.tags]
-Orbit = "orbit"
-FastStats = "fastStats"
-PeopleStage = "peopleStage" 
-Designer = "designer"
-Admin = "admin"
-Releases = "releases"
+Orbit = "Orbit"
+FastStats = "FastStats"
+PeopleStage = "PeopleStage" 
+Designer = "Designer"
+Admin = "Admin"
+Releases = "Releases"
 
 # Palette toggle for light mode
 [[project.theme.palette]]

@@ -46,11 +46,9 @@ site_dir = "site"
 use_directory_urls = true
 
 nav = [
-   { "Home" = [
-    "index.md", 
-    { "Admin" = "admin/index.md"},
-    { "Contact" = "https://www.apteco.com/contact" },
-   ]},
+
+   { "Home" = "index.md" },
+
    { "Orbit" = [
     "orbit/index.md",
     { "Connect" = [
@@ -61,11 +59,12 @@ nav = [
      ]}
     ]},
     { "Dashboards" = "orbit/dashboards/index.md" },
-   ]},
+   ]}, 
+
    { "FastStats" = "faststats/index.md" },
    { "PeopleStage" = "peoplestage/index.md" },
    { "Designer" = "designer/index.md" },
-   { "Releases" = "releases/index.md" },  
+
  ]
 
 # With the "extra_css" option you can add your own CSS styling to customize

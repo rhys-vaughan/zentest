@@ -9,6 +9,8 @@ hide:
 
 Apteco’s end-to-end marketing platform
 
+![End-to-end marketing platform](/images/orbit/orbit-end-to-end.png)
+
 <div class="grid cards" markdown>
 
 -   :material-clock-fast:{ .lg .middle } __Build your system__

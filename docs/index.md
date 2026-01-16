@@ -4,8 +4,6 @@ icon: lucide/rocket
 
 # Welcome to the Apteco Help Hub
 
-For full documentation visit [zensical.org](https://zensical.org/docs/).
-
 ## Commands
 
 * [`zensical new`][new] - Create a new project

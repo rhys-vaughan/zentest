@@ -1,7 +1,7 @@
 ---
 icon: lucide/chart-bar
 tags:
-  - Faststats
+  - FastStats
 hide:
   - tags
   - path

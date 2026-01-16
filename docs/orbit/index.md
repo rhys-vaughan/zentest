@@ -9,7 +9,7 @@ hide:
 
 Apteco’s end-to-end marketing platform
 
-![End-to-end marketing platform](/images/orbit/orbit-end-to-end.png)
+![End-to-end marketing platform](images/orbit/orbit-end-to-end.png)
 
 <div class="grid cards" markdown>
 
@@ -20,7 +20,7 @@ Apteco’s end-to-end marketing platform
     Upload, configure, and protect your data with our reliable,
     scalable cloud solution
 
-    [:octicons-arrow-right-24: Connect](/orbit/connect/index.md)
+    [:octicons-arrow-right-24: Connect](connect/index.md)
 
 -   :fontawesome-brands-markdown:{ .lg .middle } __Analyse your data__
 
@@ -28,7 +28,7 @@ Apteco’s end-to-end marketing platform
 
     Build interactive dashboards to analyse your data
 
-    [:octicons-arrow-right-24: Dashboards](/orbit/dashboards/index.md)
+    [:octicons-arrow-right-24: Dashboards](dashboards/index.md)
 
 -   :material-format-font:{ .lg .middle } __Target your audience__
 

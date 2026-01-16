@@ -3,6 +3,8 @@ tags:
   - Designer
 hide:
   - tags
+  - path
+  - footer
 ---
 
 # Designer

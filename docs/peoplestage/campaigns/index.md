@@ -3,8 +3,6 @@ tags:
   - PeopleStage
 hide:
   - tags
-  - path
-  - footer
 ---
 
-# PeopleStage
+# Campaigns

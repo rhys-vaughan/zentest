@@ -1,8 +1,11 @@
 ---
+icon: lucide/orbit
 tags:
   - Orbit
 hide:
   - tags
+  - path
+  - footer
 ---
 
 # Orbit

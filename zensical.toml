@@ -47,8 +47,6 @@ use_directory_urls = true
 
 nav = [
 
-   { "Home" = "index.md" },
-
    { "Orbit" = [
     "orbit/index.md",
     { "Connect" = [
@@ -61,11 +59,33 @@ nav = [
     { "Dashboards" = "orbit/dashboards/index.md" },
    ]}, 
 
-   { "FastStats" = "faststats/index.md" },
-   { "PeopleStage" = "peoplestage/index.md" },
-   { "Designer" = "designer/index.md" },
-   { "Admin" = "admin/index.md" },
-   { "Releases" = "releases/index.md" },
+   { "FastStats" = [
+    "faststats/index.md",
+    { "Analysis" = "faststats/analysis/index.md" },
+   ]},
+
+   { "PeopleStage" = [
+    "peoplestage/index.md",
+    { "Campaigns" = "peoplestage/campaigns/index.md" },
+   ]},
+   
+
+   { "Designer" = [
+    "designer/index.md",
+    { "System configuration" = "designer/system-configuration/index.md" },
+   ]},
+
+   { "Admin" = [
+    "admin/index.md",
+    { "Installation" = "admin/installation/index.md" },
+   ]},
+
+   { "Releases" = [
+    "releases/index.md",
+    { "Release notes" = "releases/release-notes/index.md" },
+   ]},
+
+    { "Contact" = "https://www.apteco.com/contact"}
 
  ]
 

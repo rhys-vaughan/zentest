@@ -4,7 +4,6 @@ tags:
 hide:
   - tags
   - path
-  - footer
 ---
 
-# Admin
+# Installation

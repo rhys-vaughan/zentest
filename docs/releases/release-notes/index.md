@@ -1,10 +1,9 @@
 ---
 tags:
-  - Admin
+  - Releases
 hide:
   - tags
   - path
-  - footer
 ---
 
-# Admin
+# Release notes

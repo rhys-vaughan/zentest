@@ -1,4 +1,5 @@
 ---
+icon: lucide/database-zap
 tags:
   - Orbit
 hide:

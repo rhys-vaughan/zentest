@@ -64,6 +64,8 @@ nav = [
    { "FastStats" = "faststats/index.md" },
    { "PeopleStage" = "peoplestage/index.md" },
    { "Designer" = "designer/index.md" },
+   { "Admin" = "admin/index.md" },
+   { "Releases" = "releases/index.md" },
 
  ]
 

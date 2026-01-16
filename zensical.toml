@@ -88,8 +88,6 @@ nav = [
     { "Release notes" = "releases/release-notes/index.md" },
    ]},
 
-    { "Contact" = "https://www.apteco.com/contact"}
-
  ]
 
 # With the "extra_css" option you can add your own CSS styling to customize

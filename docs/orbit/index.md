@@ -5,4 +5,43 @@ hide:
   - tags
 ---
 
-# Orbit getting started
+# Orbit
+
+Apteco’s end-to-end marketing platform
+
+<div class="grid cards" markdown>
+
+-   :material-clock-fast:{ .lg .middle } __Build your system__
+
+    ---
+
+    Upload, configure, and protect your data with our reliable,
+    scalable cloud solution
+
+    [:octicons-arrow-right-24: Connect](#)
+
+-   :fontawesome-brands-markdown:{ .lg .middle } __Analyse your data__
+
+    ---
+
+    Focus on your content and generate a responsive and searchable static site
+
+    [:octicons-arrow-right-24: Dashboards](#)
+
+-   :material-format-font:{ .lg .middle } __Target your audience__
+
+    ---
+
+    Change the colors, fonts, language, icons, logo and more with a few lines
+
+    [:octicons-arrow-right-24: Audiences](#)
+
+-   :material-scale-balance:{ .lg .middle } __Create your campaign__
+
+    ---
+
+    Zensical is licensed under MIT and available on [GitHub]
+
+    [:octicons-arrow-right-24: Campaign](#)
+
+</div>

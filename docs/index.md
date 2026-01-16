@@ -28,6 +28,10 @@ icon: lucide/rocket
 
     This is a **warning** admonition. Be careful!
 
+!!! tip
+
+    This is a tip!
+
 ### Details
 
 > Go to [documentation](https://zensical.org/docs/authoring/admonitions/#collapsible-blocks)

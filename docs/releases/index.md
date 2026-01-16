@@ -7,4 +7,4 @@ hide:
   - footer
 ---
 
-# Release & patch notes
+# Releases

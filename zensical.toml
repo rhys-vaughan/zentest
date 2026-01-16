@@ -56,7 +56,10 @@ nav = [
       { "File upload" = "orbit/connect/data-sources/file-upload.md" },
      ]}
     ]},
-    { "Dashboards" = "orbit/dashboards/index.md" },
+    { "Dashboards" = [
+     "orbit/dashboards/index.md",
+     { "Tiles" = "orbit/dashboards/tiles/index.md" },
+   ]}
    ]}, 
 
    { "FastStats" = [

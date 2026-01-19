@@ -20,7 +20,7 @@ hide:
 
     [:octicons-arrow-right-24: Getting started](#)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __Admin__
+-   :fontawesome-brands-markdown:{ .lg .middle } __Administration__
 
     ---
 
@@ -36,7 +36,7 @@ hide:
 
     [:octicons-arrow-right-24: Customization](#)
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+-   :material-scale-balance:{ .lg .middle } __Apteco insider programme__
 
     ---
 

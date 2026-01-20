@@ -1,9 +1,9 @@
 ---
 icon: lucide/rocket
 tags:
-  - Releases
+  - Orbit
 hide:
   - tags
 ---
 
-# Releases
+# Orin AI assistant

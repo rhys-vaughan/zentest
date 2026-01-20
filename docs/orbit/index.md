@@ -4,8 +4,6 @@ tags:
   - Orbit
 hide:
   - tags
-  - path
-  - footer
 ---
 
 # Orbit

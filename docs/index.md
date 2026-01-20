@@ -1,5 +1,5 @@
 ---
-icon: lucide/rocket
+icon: lucide/house
 title: Home
 hide:
   - footer
@@ -11,40 +11,36 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Orbit documentation__
+-   :material-orbit:{ .lg .middle } ┃ __Apteco Orbit__
 
     ---
 
     Install [`zensical`](#) with [`pip`](#) and get up
     and running in minutes
 
-    [:octicons-arrow-right-24: Getting started](#)
+    [:octicons-arrow-right-24: Getting started with Orbit](orbit/index.md)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __Administration__
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :material-format-font:{ .lg .middle } __Release centre__
+-   :material-database-search:{ .lg .middle } ┃ __Apteco Customer Data Platform__
 
     ---
 
     Change the colors, fonts, language, icons, logo and more with a few lines
 
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: Apteco CDP](#)
 
--   :material-scale-balance:{ .lg .middle } __Apteco insider programme__
+-   :fontawesome-brands-markdown:{ .lg .middle } ┃ __Desktop apps__
 
     ---
 
-    Zensical is licensed under MIT and available on [GitHub]
+    Focus on your content and generate a responsive and searchable static site
 
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: FastStats](#) ┃ [PeopleStage](#) ┃ [Designer](#)
 
 </div>
+
+!!! tip "Want to stay in the loop?"
+
+    The Apteco Insider Programme gives you early access to upcoming features and the opportunity to shape our product development.
 
 [![Orin AI assistant](images/banners/Orin email signature banner.jpg)](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
 
@@ -52,4 +48,19 @@ hide:
 
 Didn't find the answer you need?
 
-[Contact support](https://www.apteco.com/contact){ .md-button .md-button--primary }
+[Contact tech services](https://www.apteco.com/contact){ .md-button .md-button--primary }
+
+Possible blocks/social cards
+
+- User docs
+- Release docs
+- Admin docs
+- Training
+- Learning hub
+- Insider programme
+- Portal
+- Ideas portal
+- Roadmap
+- Partner resources
+- Contacts
+- Resources guide

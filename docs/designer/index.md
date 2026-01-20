@@ -1,10 +1,9 @@
 ---
+icon: lucide/between-horizontal-start
 tags:
   - Designer
 hide:
   - tags
-  - path
-  - footer
 ---
 
 # Designer

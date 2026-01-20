@@ -58,9 +58,19 @@ nav = [
     ]},
     { "Dashboards" = [
      "orbit/dashboards/index.md",
+     { "Creating a dashboard" = "orbit/dashboards/create/index.md" },
      { "Tiles" = "orbit/dashboards/tiles/index.md" },
-   ]}
-   ]}, 
+    ]},
+    { "Audiences" = [
+     "orbit/audiences/index.md",
+     { "Creating an audience" = "orbit/audiences/create/index.md" },
+    ]},
+    { "Campaigns" = [
+     "orbit/campaigns/index.md",
+     { "Creating a campaign" = "orbit/campaigns/create/index.md" },
+    ]},
+    { "Orin" = "orbit/orin/index.md"},
+ ]},
 
    { "FastStats" = [
     "faststats/index.md",

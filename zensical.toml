@@ -69,7 +69,7 @@ nav = [
      "orbit/campaigns/index.md",
      { "Creating a campaign" = "orbit/campaigns/create/index.md" },
     ]},
-    { "Orin" = "orbit/orin/index.md"},
+    { "Orin AI assistant" = "orbit/orin/index.md"},
  ]},
 
    { "FastStats" = [
@@ -316,13 +316,13 @@ scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 primary = "custom"
-accent = "custom"
 
 # Palette toggle for dark mode
 [[project.theme.palette]]
 scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
+primary = "custom"
 
 
 # ----------------------------------------------------------------------------

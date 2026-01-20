@@ -1,5 +1,5 @@
 ---
-icon: lucide/house
+icon: lucide/orbit
 title: Home
 hide:
   - footer
@@ -64,3 +64,5 @@ Possible blocks/social cards
 - Partner resources
 - Contacts
 - Resources guide
+
+:apteco-icons/orbit-icon:

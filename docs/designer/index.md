@@ -12,7 +12,7 @@ hide:
 2. Item 2
 3. Item 3
 
-    ![End-to-end marketing platform](../assets/images/orbit/orbit-end-to-end.png)
+    ![End-to-end marketing platform](/assets/images/orbit/orbit-end-to-end.png)
 
     !!! note
 

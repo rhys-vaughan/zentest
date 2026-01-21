@@ -14,37 +14,36 @@ Apteco’s end-to-end marketing platform
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Build your system__
+-   :lucide-database-zap:{ .lg .middle } __Build your system__
 
     ---
 
-    Upload, configure, and protect your data with our reliable,
-    scalable cloud solution
+    Unify your data with the Apteco Customer Data Platform
 
     [:octicons-arrow-right-24: Connect](connect/index.md)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __Analyse your data__
+-   :lucide-chart-column-big:{ .lg .middle } __Analyse your data__
 
     ---
 
-    Build interactive dashboards to analyse your data
+    Transforms complex data into insights trhough interactive dashboards.
 
     [:octicons-arrow-right-24: Dashboards](dashboards/index.md)
 
--   :material-format-font:{ .lg .middle } __Target your audience__
+-   :lucide-users:{ .lg .middle } __Target your audience__
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    Reach the most relevant potential customers with powerful, precision targeting.
 
-    [:octicons-arrow-right-24: Audiences](#)
+    [:octicons-arrow-right-24: Audiences](audiences/index.md)
 
--   :material-scale-balance:{ .lg .middle } __Create your campaign__
+-   :material-bullhorn-outline:{ .lg .middle } __Create your campaign__
 
     ---
 
-    Zensical is licensed under MIT and available on [GitHub]
+    Build smarter journeys, automate intelligently, and prove every campaign’s impact.
 
-    [:octicons-arrow-right-24: Campaign](#)
+    [:octicons-arrow-right-24: Campaigns](campaigns/index.md)
 
 </div>

@@ -8,7 +8,7 @@ hide:
 
 # Orbit
 
-Apteco’s end-to-end marketing platform
+## End-to-end marketing platform
 
 ![End-to-end marketing platform](../assets/images/orbit/orbit-end-to-end.png)
 

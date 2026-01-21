@@ -96,9 +96,10 @@ nav = [
 
    { "Releases" = [
     "releases/index.md",
+    { "Insider Programme" = "releases/insider-programme.md" },
     { "Release notes" = "releases/release-notes/index.md" },
    ]},
-
+   { "apteco.com" = "https://www.apteco.com" },
  ]
 
 [project.theme]
@@ -291,6 +292,9 @@ scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
 primary = "custom"
+
+[project.theme.icon]
+admonition = {example = "lucide/lightbulb"}
 
 
 # ----------------------------------------------------------------------------

@@ -56,7 +56,7 @@ nav = [
      { "Creating a campaign" = "orbit/campaigns/create/index.md" },
     ]},
     { "Orin AI assistant" = "orbit/orin/index.md"},
- ]},
+  ]},
 
    { "FastStats" = [
     "faststats/index.md",
@@ -77,12 +77,6 @@ nav = [
    { "Admin" = [
     "admin/index.md",
     { "Installation" = "admin/installation/index.md" },
-   ]},
-
-   { "Releases" = [
-    "releases/index.md",
-    { "Insider Programme" = "releases/insider-programme.md" },
-    { "Release notes" = "releases/release-notes/index.md" },
    ]},
    { "apteco.com" = "https://www.apteco.com" },
  ]

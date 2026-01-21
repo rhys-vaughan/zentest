@@ -38,7 +38,7 @@ copyright = """
 Copyright &copy; 2026 Apteco All rights reserved.
 """
 
-extra_css = ["stylesheets/extra.css"]
+extra_css = ["assets/stylesheets/extra.css"]
 
 docs_dir = "docs"
 
@@ -109,9 +109,9 @@ options.custom_icons = ["overrides/.icons"]
 
 font.text = "Poppins"
 
-logo = "assets/images/Apteco-logo-icon.svg"
+logo = "assets/images/apteco-logo-icon.svg"
 
-favicon = "assets/images/Apteco-logo-icon.svg"
+favicon = "assets/images/apteco-logo-icon.svg"
 
 # change this to "classic" to use the traditional Material for MkDocs look.
 #variant = "classic"

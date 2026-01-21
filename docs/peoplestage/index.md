@@ -1,5 +1,5 @@
 ---
-icon: material/sitemap
+icon: material/sitemap-outline
 tags:
   - PeopleStage
 hide:

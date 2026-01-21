@@ -1,5 +1,5 @@
 ---
-icon: lucide/layout-dashboard
+icon: lucide/chart-column-big
 tags:
   - Orbit
 hide:

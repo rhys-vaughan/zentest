@@ -1,5 +1,5 @@
 ---
-icon: lucide/user-star
+icon: lucide/users
 tags:
   - Orbit
 hide:

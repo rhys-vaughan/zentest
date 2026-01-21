@@ -1,5 +1,5 @@
 ---
-icon: lucide/orbit
+icon: material/orbit
 tags:
   - Orbit
 hide:
@@ -10,7 +10,7 @@ hide:
 
 Apteco’s end-to-end marketing platform
 
-![End-to-end marketing platform](../images/orbit/orbit-end-to-end.png)
+![End-to-end marketing platform](../assets/images/orbit/orbit-end-to-end.png)
 
 <div class="grid cards" markdown>
 

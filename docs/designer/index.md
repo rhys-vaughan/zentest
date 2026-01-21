@@ -1,5 +1,5 @@
 ---
-icon: lucide/between-horizontal-start
+icon: material/table-edit
 tags:
   - Designer
 hide:
@@ -12,7 +12,7 @@ hide:
 2. Item 2
 3. Item 3
 
-    ![End-to-end marketing platform](../images/orbit/orbit-end-to-end.png)
+    ![End-to-end marketing platform](../assets/images/orbit/orbit-end-to-end.png)
 
     !!! note
 

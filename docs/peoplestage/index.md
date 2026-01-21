@@ -1,5 +1,5 @@
 ---
-icon: lucide/mail-plus
+icon: material/sitemap
 tags:
   - PeopleStage
 hide:

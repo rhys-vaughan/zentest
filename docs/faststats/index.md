@@ -1,5 +1,5 @@
 ---
-icon: lucide/chart-bar
+icon: material/magnify-expand
 tags:
   - FastStats
 hide:

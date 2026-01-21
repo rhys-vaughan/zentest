@@ -42,7 +42,7 @@ hide:
 
     The Apteco Insider Programme gives you early access to upcoming features and the opportunity to shape our product development.
 
-[![Orin AI assistant](images/banners/Orin email signature banner.jpg)](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
+[![Orin AI assistant](/assets/images/banners/Orin email signature banner.jpg)](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
 
 ---
 
@@ -50,7 +50,7 @@ Didn't find the answer you need?
 
 [Contact tech services](https://www.apteco.com/contact){ .md-button .md-button--primary }
 
-Possible blocks/social cards
+Possible blocks/social cards, etc.
 
 - User docs
 - Release docs
@@ -65,4 +65,4 @@ Possible blocks/social cards
 - Contacts
 - Resources guide
 
-:apteco-icons/orbit-icon:
+:assets/images/apteco-icons/orbit-icon:

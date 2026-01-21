@@ -1,5 +1,5 @@
 ---
-icon: lucide/shield-user
+icon: material/shield-account-outline
 tags:
   - Admin
 hide:

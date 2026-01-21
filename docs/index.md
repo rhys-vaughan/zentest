@@ -42,7 +42,7 @@ hide:
 
     The Apteco Insider Programme gives you early access to upcoming features and the opportunity to shape our product development.
 
-[![Orin AI assistant promotional banner](../assets/images/banners/orin-email-signature-banner.jpg)](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
+[![Orin AI assistant promotional banner](assets\images\banners\orin-email-signature-banner.jpg)](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
 
 ---
 

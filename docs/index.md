@@ -43,23 +43,15 @@ This includes product documentation, administrator guides, release updates, and 
 
     Training, learning hub, etc. You'll find everything you need and so much more.
 
-    [Apteco academy](https://www.apteco.com/learn/academy){ .md-button .md-button--primary }
+    [Academy](https://www.apteco.com/learn/academy){ .md-button .md-button--primary }
 
--   ### Roadmap
+-   ### Software roadmap
 
     ---
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    [Software roadmap](https://portal.apteco.com/sales-marketing/software-roadmap){ .md-button .md-button--primary }
-
--   ### Apteco portal
-
-    ---
-
-    Portal, ideas, roadmap, partner resources, etc. And so much more.
-
-    [Apteco portal](https://portal.apteco.com/){ .md-button .md-button--primary }
+    [Roadmap](https://portal.apteco.com/sales-marketing/software-roadmap){ .md-button .md-button--primary }
 
 -   ### Apteco community
 
@@ -67,7 +59,15 @@ This includes product documentation, administrator guides, release updates, and 
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    [Apteco community](https://www.apteco.com/community){ .md-button .md-button--primary }
+    [Community](https://www.apteco.com/community){ .md-button .md-button--primary }
+
+-   ### Apteco portal
+
+    ---
+
+    Portal, ideas, roadmap, partner resources, etc. And so much more.
+
+    [Portal](https://portal.apteco.com/){ .md-button .md-button--primary }
 
 -   ### Blog
 

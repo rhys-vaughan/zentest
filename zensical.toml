@@ -83,7 +83,7 @@ nav = [
 
 [project.theme]
 
-custom_dir = "overrides"
+#custom_dir = "overrides"
 
 options.custom_icons = ["overrides/.icons"]
 

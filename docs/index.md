@@ -25,6 +25,8 @@ This includes product documentation, administrator guides, release updates, and 
 
 </div>
 
+---
+
 ## More resources
 
 <div class="grid cards" markdown>

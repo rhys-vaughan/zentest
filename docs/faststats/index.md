@@ -6,4 +6,4 @@ hide:
   - tags
 ---
 
-# FastStats
+# FastStats documentation

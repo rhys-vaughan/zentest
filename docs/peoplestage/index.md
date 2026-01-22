@@ -6,4 +6,4 @@ hide:
   - tags
 ---
 
-# PeopleStage
+# PeopleStage documentation

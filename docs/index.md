@@ -9,16 +9,13 @@ hide:
 
 # Welcome to the Apteco Help Hub
 
-Unlock help, support, and resources, and get the most out of your Apteco software.
+Here you’ll find everything you need to get the most out of your Apteco software.
+
+This includes product documentation, administrator guides, release updates, and other helpful resources.
+
+---
 
 <div class="grid cards" markdown>
-
-- :fontawesome-brands-html5: __HTML__ for content and structure
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-
-</div>
 
 !!! tip "Want to stay in the loop?"
 
@@ -26,30 +23,12 @@ Unlock help, support, and resources, and get the most out of your Apteco softwar
 
 [![Orin AI assistant promotional banner](assets/images/banners/orin-email-signature-banner.jpg)](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
 
----
-
-## More resources
-
-Cards
+</div>
 
 ---
 
-## Need support?
+Didn't find the answer you're looking for?
 
-Didn't find the answer you're looking for? Don't worry, we're here to help!
+Don't worry, we're here to help!
 
 [Contact tech services](https://www.apteco.com/contact){ .md-button .md-button--primary }
-
-Possible blocks/social cards, etc.
-
-- User docs
-- Release docs
-- Admin docs
-- Training
-- Learning hub
-- Portal
-- Ideas portal
-- Roadmap
-- Partner resources
-- Contacts
-- Resources guide

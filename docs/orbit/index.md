@@ -6,9 +6,9 @@ hide:
   - tags
 ---
 
-# Orbit
+# Orbit documentation
 
-## End-to-end marketing platform
+## The end-to-end marketing platform
 
 ![End-to-end marketing platform](../assets/images/orbit/orbit-end-to-end.png)
 
@@ -47,3 +47,18 @@ hide:
     [:octicons-arrow-right-24: Campaigns](campaigns/index.md)
 
 </div>
+
+
+Possible blocks/social cards, etc. for home page
+
+- User docs
+- Release docs
+- Admin docs
+- Training
+- Learning hub
+- Portal
+- Ideas portal
+- Roadmap
+- Partner resources
+- Contacts
+- Resources guide

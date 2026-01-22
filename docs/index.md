@@ -25,10 +25,56 @@ This includes product documentation, administrator guides, release updates, and 
 
 </div>
 
----
+## More resources
 
-Didn't find the answer you're looking for?
+<div class="grid cards" markdown>
 
-Don't worry, we're here to help!
+-   ### Need support?
 
-[Contact tech services](https://www.apteco.com/contact){ .md-button .md-button--primary }
+    ---
+
+    If you didn't find the answer you're looking for, don't worry. We're here to help!
+
+    [Contact tech services](https://www.apteco.com/contact){ .md-button .md-button--primary }
+
+-   ### Apteco academy
+
+    ---
+
+    Training, learning hub, etc. You'll find everything you need and so much more.
+
+    [Apteco academy](https://www.apteco.com/learn/academy){ .md-button .md-button--primary }
+
+-   ### Roadmap
+
+    ---
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    [Software roadmap](https://portal.apteco.com/sales-marketing/software-roadmap){ .md-button .md-button--primary }
+
+-   ### Apteco portal
+
+    ---
+
+    Portal, ideas, roadmap, partner resources, etc. And so much more.
+
+    [Apteco portal](https://portal.apteco.com/){ .md-button .md-button--primary }
+
+-   ### Apteco community
+
+    ---
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    [Apteco community](https://www.apteco.com/community){ .md-button .md-button--primary }
+
+-   ### Blog
+
+    ---
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    [Blog](https://www.apteco.com/insights){ .md-button .md-button--primary }
+
+</div>

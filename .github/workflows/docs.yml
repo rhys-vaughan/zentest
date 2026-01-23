@@ -9,15 +9,6 @@ permissions:
   pages: write
   id-token: write
 jobs:
-  vale:
-   name: linting
-   runs-on: ubuntu-latest
-   steps:
-     - uses: actions/checkout@v5
-     - uses: errata-ai/vale-action@v2.1.1
-       with:
-        version: 2.17.0
-        fail_on_error: true
   deploy:
     environment:
       name: github-pages

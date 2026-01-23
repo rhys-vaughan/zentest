@@ -9,7 +9,14 @@ permissions:
   pages: write
   id-token: write
 jobs:
+  vale:
+    name: linting
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: errata-ai/vale-action@v2.1.1
   deploy:
+    needs: vale
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

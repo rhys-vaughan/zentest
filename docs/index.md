@@ -35,7 +35,7 @@ This includes product documentation, administrator guides, release updates, and 
 
     ---
 
-    If you didn't find the answer you're looking for, don't worry. We're here to help!
+    If you didn't find the answer you're looking for, don't worry. Help is available!
 
     [Contact tech services](https://www.apteco.com/contact){ .md-button .md-button--primary }
 

@@ -26,7 +26,7 @@ hide:
 
     ---
 
-    Transforms complex data into insights trhough interactive dashboards.
+    Transforms complex data into insights through interactive dashboards.
 
     [:octicons-arrow-right-24: Dashboards](dashboards/index.md)
 

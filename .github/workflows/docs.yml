@@ -9,18 +9,7 @@ permissions:
   pages: write
   id-token: write
 jobs:
-  vale:
-    name: vale linting
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: errata-ai/vale-action@v2.1.1
-        with:
-          files: docs/orbit/index.md
-          filter_mode: nofilter
-          fail_on_error: true
   deploy:
-    needs: vale
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

@@ -23,7 +23,7 @@ copyright = """
 Copyright &copy; 2026 Apteco All rights reserved.
 """
 
-extra_css = ["assets/stylesheets/extra.css"]
+extra_css = ["stylesheets/extra.css"]
 
 docs_dir = "docs"
 
@@ -257,14 +257,13 @@ Releases = "Releases"
 scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
-primary = "custom"
 
 # Palette toggle for dark mode
 [[project.theme.palette]]
 scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
-primary = "custom"
+
 
 [project.theme.icon]
 admonition = {example = "lucide/lightbulb"}

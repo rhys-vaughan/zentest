@@ -257,6 +257,7 @@ Releases = "Releases"
 scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
+primary = "custom"
 
 # Palette toggle for dark mode
 [[project.theme.palette]]

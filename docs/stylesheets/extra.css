@@ -3,3 +3,25 @@
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
 }
+
+.md-banner {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 0.3rem 0;
+}
+
+.md-banner__inner {
+  max-width: 1700px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.md-banner a {
+  color: white;
+  margin-left: 0.5rem;
+}
+
+.md-banner a:hover {
+  opacity: 0.8;
+}

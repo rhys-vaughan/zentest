@@ -78,6 +78,11 @@ nav = [
     "admin/index.md",
     { "Installation" = "admin/installation/index.md" },
    ]},
+
+   { "Releases" = [
+    "releases/index.md",
+    { "Release notes" = "releases/release-notes/index.md" },
+   ]},
    { "apteco.com" = "https://www.apteco.com" },
  ]
 

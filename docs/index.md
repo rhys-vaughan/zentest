@@ -7,9 +7,13 @@ hide:
   - toc
 ---
 
-# Welcome to the Apteco Help Hub
+# Apteco documentation
 
-Everything you need to get the most out of your Apteco software, including product docs, admin guides, release updates, and other helpful resources.
+Everything you need to get the most out of your Apteco software.
+
+[Get started with Orbit](orbit/index.md){ .md-button .md-button--primary } [Connect your data](orbit/connect/index.md){ .md-button }
+
+<br/>
 
 <div class="grid cards" markdown>
 
@@ -20,8 +24,6 @@ Everything you need to get the most out of your Apteco software, including produ
     ![Orbit headline feature](assets/images/dashboard-summary.jpg){ width=900 }
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
-  
-    [Read the release notes ](https://www.apteco.com/contact){ .md-button .md-button--primary }
 
 </div>
 
@@ -35,49 +37,49 @@ Everything you need to get the most out of your Apteco software, including produ
 
 <div class="grid cards" markdown>
 
--   ### Need support?
+-   ## :lucide-message-circle-question-mark:
 
-    ---
+    ### Need support?
 
     If you didn't find the answer you're looking for, don't worry. Help is available!
 
     [Contact tech services](https://www.apteco.com/contact){ .md-button .md-button--primary }
 
--   ### Apteco academy
+-   ## :lucide-graduation-cap:
 
-    ---
+    ### Apteco academy
 
     Training, learning hub, etc. You'll find everything you need and so much more.
 
     [Academy](https://www.apteco.com/learn/academy){ .md-button .md-button--primary }
 
--   ### Software roadmap
+-   ## :lucide-route:
 
-    ---
+    ### Software roadmap
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
     [Roadmap](https://portal.apteco.com/sales-marketing/software-roadmap){ .md-button .md-button--primary }
 
--   ### Apteco community
+-   ## :lucide-handshake:
 
-    ---
+    ### Apteco community
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
     [Community](https://www.apteco.com/community){ .md-button .md-button--primary }
 
--   ### Apteco portal
+-   ## :lucide-globe:
 
-    ---
+    ### Apteco portal
 
     Portal, ideas, roadmap, partner resources, etc. And so much more.
 
     [Portal](https://portal.apteco.com/){ .md-button .md-button--primary }
 
--   ### Blog
+-   ## :lucide-rss:
 
-    ---
+    ### Blog
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 

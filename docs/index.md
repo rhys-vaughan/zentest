@@ -16,24 +16,22 @@ This includes product documentation, administrator guides, release updates, and 
 <div class="grid cards" markdown>
 
 - ### What's new in Orbit
+    
+    __Orin dashboard summaries__
 
-    [![Orbit headline feature](assets/images/dashboard-summary.jpg)](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
+    [![Orbit headline feature](assets/images/dashboard-summary.jpg){ width=900 }](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
   
-    [Release notes](https://www.apteco.com/contact){ .md-button .md-button--primary }
+    [Release notes ](https://www.apteco.com/contact){ .md-button .md-button--primary }
 
 </div>
-
-<div class="grid cards" markdown>
 
 !!! tip "Want to stay in the loop?"
 
-    Join the [Apteco Insider Programme](releases/insider-programme.md) to get early access to upcoming features and the opportunity to shape our product development.
+    Join the [Apteco Insider Programme](releases/insider-programme.md) to get early access to upcoming features and the opportunity to shape our product development. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
-[![Orin AI assistant promotional banner](assets/images/banners/orin-email-signature-banner.jpg)](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
-
-</div>
-
----
+[![Orin AI assistant promotional banner](assets/images/banners/banner-test.jpg)](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
 
 ## More resources
 

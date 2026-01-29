@@ -13,8 +13,6 @@ Here you’ll find everything you need to get the most out of your Apteco softwa
 
 This includes product documentation, administrator guides, release updates, and other helpful resources.
 
----
-
 <div class="grid cards" markdown>
 
 - ### What's new in Orbit
@@ -23,11 +21,7 @@ This includes product documentation, administrator guides, release updates, and 
   
     [Release notes](https://www.apteco.com/contact){ .md-button .md-button--primary }
 
-    
-
 </div>
-
----
 
 <div class="grid cards" markdown>
 

@@ -9,21 +9,19 @@ hide:
 
 # Welcome to the Apteco Help Hub
 
-Here you’ll find everything you need to get the most out of your Apteco software.
-
-This includes product documentation, administrator guides, release updates, and other helpful resources.
+Everything you need to get the most out of your Apteco software, including product docs, admin guides, release updates, and other helpful resources.
 
 <div class="grid cards" markdown>
 
 - ### What's new in Orbit
-    
+
     __Orin dashboard summaries__
 
     ![Orbit headline feature](assets/images/dashboard-summary.jpg){ width=900 }
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
   
-    [Release notes ](https://www.apteco.com/contact){ .md-button .md-button--primary }
+    [Read the release notes ](https://www.apteco.com/contact){ .md-button .md-button--primary }
 
 </div>
 

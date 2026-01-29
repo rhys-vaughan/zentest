@@ -19,7 +19,7 @@ This includes product documentation, administrator guides, release updates, and 
     
     __Orin dashboard summaries__
 
-    [![Orbit headline feature](assets/images/dashboard-summary.jpg){ width=900 }](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
+    ![Orbit headline feature](assets/images/dashboard-summary.jpg){ width=900 }
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
   

@@ -47,7 +47,7 @@ Everything you need to get the most out of your Apteco software.
 
 - ### What's new in Orbit
 
-    __Orin dashboard summaries__
+    __Orin dashboard summarisation__
 
     ![Orbit headline feature](assets/images/dashboard-summary.jpg){ width=900 }
 

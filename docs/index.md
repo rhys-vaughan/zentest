@@ -27,7 +27,7 @@ Everything you need to get the most out of your Apteco software.
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Connect](connect/index.md)__
+    __[:octicons-arrow-right-24: Connect](orbit/connect/index.md)__
 
 -   ## :lucide-megaphone:
 
@@ -47,7 +47,7 @@ Everything you need to get the most out of your Apteco software.
 
 - ### What's new in Orbit
 
-    __Orin dashboard summarisation__
+    __Orin dashboard summaries__
 
     ![Orbit headline feature](assets/images/dashboard-summary.jpg){ width=900 }
 

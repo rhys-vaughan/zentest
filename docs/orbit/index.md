@@ -14,7 +14,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :lucide-database-zap:{ .lg .middle } __Build your system__
+-   :lucide-between-horizontal-start:{ .lg .middle } __Build your system__
 
     ---
 

@@ -1,5 +1,5 @@
 ---
-icon: lucide/database-zap
+icon: lucide/between-horizontal-start
 tags:
   - Orbit
 hide:

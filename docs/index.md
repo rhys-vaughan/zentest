@@ -11,6 +11,34 @@ hide:
 
 Everything you need to get the most out of your Apteco software.
 
+<div class="grid cards" markdown>
+
+-   ## :material-orbit:
+
+    ### Apteco Orbit
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    __[:octicons-arrow-right-24: Orbit](orbit/index.md)__
+
+-   ## :lucide-between-horizontal-start:
+
+    ### Apteco Customer Data Platform
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    __[:octicons-arrow-right-24: Connect](connect/index.md)__
+
+-   ## :lucide-megaphone:
+
+    ### What's new
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    __[:octicons-arrow-right-24: Releases](releases/index.md)__
+
+</div>
+
 [Get started with Orbit](orbit/index.md){ .md-button .md-button--primary } [Connect your data](orbit/connect/index.md){ .md-button }
 
 <br/>
@@ -24,6 +52,8 @@ Everything you need to get the most out of your Apteco software.
     ![Orbit headline feature](assets/images/dashboard-summary.jpg){ width=900 }
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+    __[:octicons-arrow-right-24: Read the release notes](releases/index.md)__
 
 </div>
 

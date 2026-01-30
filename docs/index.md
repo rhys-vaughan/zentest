@@ -9,8 +9,6 @@ hide:
 
 # Apteco documentation
 
-[Apteco](https://help.apteco.com/docs/Content/home.htm)
-
 Everything you need to get the most out of your Apteco software.
 
 <div class="grid cards" markdown>

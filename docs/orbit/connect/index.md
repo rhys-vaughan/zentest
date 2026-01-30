@@ -20,4 +20,4 @@ hide:
 
         Capture physical characteristics from your loyalty programme data without creating complex table joins. 
         
-        Use attributes to store information such as height, eye colour, and clothing size against individual records. This allows your retail team to access and segment customers by these characteristics directly in audience selection, making it easier to personalise product recommendations and targeted offers.
+        Use attributes to store information such as height, eye colour, and clothing size against individual records. This allows your retail team to access and segment customers by these extremely good characteristics directly in audience selection, making it easier to personalise product recommendations and targeted offers.

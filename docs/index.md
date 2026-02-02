@@ -71,7 +71,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Need support?
 
-    If you didn't find the answer you're looking for, don't worry. Help is available!
+    If you didn't find the answer you're looking for, don't worry. We're here to help!
 
     [Contact tech services](https://www.apteco.com/contact){ .md-button .md-button--primary }
 
@@ -79,7 +79,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco academy
 
-    Training, learning hub, etc. You'll find everything you need and so much more.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
     [Academy](https://www.apteco.com/learn/academy){ .md-button .md-button--primary }
 
@@ -103,13 +103,13 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco portal
 
-    Portal, ideas, roadmap, partner resources, etc. And so much more.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
     [Portal](https://portal.apteco.com/){ .md-button .md-button--primary }
 
 -   ## :lucide-rss:
 
-    ### Blog
+    ### Insights
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 

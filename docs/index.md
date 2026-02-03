@@ -9,8 +9,6 @@ hide:
 
 # Apteco documentation
 
-[Get started with Orbit](orbit/system/index.md)
-
 Everything you need to get the most out of your Apteco software.
 
 <div class="grid cards" markdown>

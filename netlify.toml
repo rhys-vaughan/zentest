@@ -2,3 +2,7 @@
   command = "zensical build"
   publish = "site/"
   environment = { PYTHON_VERSION = "3.14" }
+[[plugins]]
+  package = "netlify-plugin-checklinks"
+  [plugins.inputs]
+    ignoreUrls = ["https://fonts.gstatic.com"]

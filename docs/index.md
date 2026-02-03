@@ -11,6 +11,8 @@ hide:
 
 Everything you need to get the most out of your Apteco software.
 
+[Get started with Orbit](orbit/system/index.md)
+
 <div class="grid cards" markdown>
 
 -   ## :material-orbit:

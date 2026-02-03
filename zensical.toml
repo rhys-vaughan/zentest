@@ -19,6 +19,12 @@ site_author = "Rhys Vaughan"
 # Read more: https://zensical.org/docs/setup/basics/#site_url
 #site_url = "https://www.example.com/"
 
+repo_url = "https://github.com/rhys-vaughan/zentest"
+
+repo_name = "Apteco/help-hub"
+
+edit_uri = "edit/main/docs/"
+
 copyright = """
 Copyright &copy; 2026 Apteco All rights reserved.
 """
@@ -124,13 +130,13 @@ features = [
     # will generate an edit button for the page. This works for common
     # repository hosting services.
     # https://zensical.org/docs/setup/repository/#code-actions
-    #"content.action.edit",
+    "content.action.edit",
 
     # If you have a repository configured and turn on this feature, Zensical
     # will generate a button that allows the user to view the Markdown
     # code for the current page.
     # https://zensical.org/docs/setup/repository/#code-actions
-    #"content.action.view",
+    "content.action.view",
 
     # Code annotations allow you to add an icon with a tooltip to your
     # code blocks to provide explanations at crucial points.

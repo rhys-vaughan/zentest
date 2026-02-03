@@ -25,3 +25,11 @@
 .md-banner a:hover {
   opacity: 0.8;
 }
+
+.md-header__source {
+  visibility: hidden;
+}
+
+.md-search__button::after {
+  visibility: hidden;
+}

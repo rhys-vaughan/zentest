@@ -16,10 +16,6 @@ hide:
 
     !!! note
 
-        Note time baby!
-
-    ??? Example expand
-
-        Example stuff
+        Notes
 
 4. Item 4

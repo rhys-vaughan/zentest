@@ -105,6 +105,7 @@ logo = "assets/images/apteco-logo-icon.svg"
 
 favicon = "assets/images/apteco-logo-icon.svg"
 
+
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
 # The "language" option allows you to set the language used. This language

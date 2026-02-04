@@ -1,0 +1,31 @@
+# Exclude all files from root directory
+/*
+
+# ------------------------
+# Common project files
+!CHANGELOG.md
+!README.md
+!LICENSE
+
+# ------------------------
+# Include Zensical files
+!docs/
+!includes/
+!overrides/
+!mkdocs.yml
+!zensical.toml
+!pyproject.toml
+!requirements.txt
+!netlify.toml
+!.vale.ini
+!styles/
+
+# ------------------------
+# Project automation
+!Makefile
+
+# ------------------------
+# Version Control
+!.gitignore
+!.gitattributes
+!.github/

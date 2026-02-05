@@ -21,10 +21,6 @@
 !styles/
 
 # ------------------------
-# Project automation
-!Makefile
-
-# ------------------------
 # Version Control
 !.gitignore
 !.gitattributes

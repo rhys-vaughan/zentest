@@ -18,7 +18,7 @@ Everything you need to get the most out of your Apteco software.
     ### Apteco Orbit
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
+    
     __[:octicons-arrow-right-24: Orbit](orbit/index.md)__
 
 -   ## :lucide-between-horizontal-start:
@@ -39,7 +39,7 @@ Everything you need to get the most out of your Apteco software.
 
 </div>
 
-[Get started](orbit/index.md){ .md-button .md-button--primary } [Connect your data](orbit/connect/index.md){ .md-button }
+[Get started with Orbit](orbit/index.md){ .md-button .md-button--primary } [Connect your data](orbit/connect/index.md){ .md-button }
 
 <br/>
 

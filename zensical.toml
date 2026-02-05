@@ -42,33 +42,56 @@ nav = [
 
    { "Orbit" = [
     "orbit/index.md",
+
+
     { "Connect" = [
      "orbit/connect/index.md",
+
      { "Data sources" = [
       "orbit/connect/data-sources/index.md",
+
       { "File upload" = "orbit/connect/data-sources/file-upload.md" },
+
      ]}
+
     ]},
+
+
     { "Dashboards" = [
      "orbit/dashboards/index.md",
+
      { "Creating a dashboard" = "orbit/dashboards/create/index.md" },
+
      { "Tiles" = "orbit/dashboards/tiles/index.md" },
+
     ]},
+
+
     { "Audiences" = [
      "orbit/audiences/index.md",
+
      { "Creating an audience" = "orbit/audiences/create/index.md" },
     ]},
+
+
     { "Campaigns" = [
      "orbit/campaigns/index.md",
+
      { "Creating a campaign" = "orbit/campaigns/create/index.md" },
     ]},
+
+
     { "Orin AI assistant" = "orbit/orin/index.md"},
   ]},
+
+
 
    { "FastStats" = [
     "faststats/index.md",
     { "Analysis" = "faststats/analysis/index.md" },
    ]},
+
+
 
    { "PeopleStage" = [
     "peoplestage/index.md",
@@ -76,23 +99,37 @@ nav = [
    ]},
    
 
+
    { "Designer" = [
     "designer/index.md",
     { "System configuration" = "designer/system-configuration/index.md" },
    ]},
+
+
 
    { "Admin" = [
     "admin/index.md",
     { "Installation" = "admin/installation/index.md" },
    ]},
 
+
+
    { "Releases" = [
     "releases/index.md",
+
+
     { "Insider programme" = "releases/insider-programme.md" },
     { "Release notes" = "releases/release-notes/index.md" },
    ]},
+
+
+
    { "apteco.com" = "https://www.apteco.com" },
+
+
  ]
+
+
 
 [project.theme]
 

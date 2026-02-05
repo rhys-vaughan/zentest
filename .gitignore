@@ -1,5 +1,6 @@
 # Exclude all files from root directory
 /*
+site/
 
 # ------------------------
 # Common project files

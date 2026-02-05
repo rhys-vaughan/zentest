@@ -6,7 +6,3 @@ hide:
 ---
 
 # File upload
-
-!!! warning "Coming soon"
-
-    This feature is currently in development.

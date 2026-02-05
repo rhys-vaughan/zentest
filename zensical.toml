@@ -88,6 +88,7 @@ nav = [
 
    { "Releases" = [
     "releases/index.md",
+    { "Insider programme" = "releases/insider-programme.md" },
     { "Release notes" = "releases/release-notes/index.md" },
    ]},
    { "apteco.com" = "https://www.apteco.com" },

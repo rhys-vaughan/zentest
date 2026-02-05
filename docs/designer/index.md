@@ -7,15 +7,3 @@ hide:
 ---
 
 # Designer documentation
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-    ![End-to-end marketing platform](../assets/images/orbit/orbit-end-to-end.png)
-
-    !!! note
-
-        Notes
-
-4. Item 4

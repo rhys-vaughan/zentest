@@ -11,8 +11,6 @@ hide:
 
 Everything you need to get the most out of your Apteco software.
 
-[404 test link](https://www.aptecon.com/)
-
 <div class="grid cards" markdown>
 
 -   ## :material-orbit:
@@ -41,7 +39,7 @@ Everything you need to get the most out of your Apteco software.
 
 </div>
 
-[Get started with Orbit](orbit/index.md){ .md-button .md-button--primary } [Connect your data](orbit/connect/index.md){ .md-button }
+[Get started](orbit/index.md){ .md-button .md-button--primary } [Connect your data](orbit/connect/index.md){ .md-button }
 
 <br/>
 

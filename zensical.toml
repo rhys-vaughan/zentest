@@ -42,87 +42,82 @@ nav = [
 
 #-------------------------------------------
 
-   { Orbit = [
-    "orbit/index.md",
-    { "Connect" = [
-     "orbit/connect/index.md",
-     { "Data sources" = [
+{ Orbit = [
+"orbit/index.md",
+   { "Connect" = [
+   "orbit/connect/index.md",
+      { "Data sources" = [
       "orbit/connect/data-sources/index.md",
       "orbit/connect/data-sources/file-upload.md",
       "orbit/connect/data-sources/amazon-s3.md",
-     ]}
-    ]},
-
-
-    { "Dashboards" = [
-     "orbit/dashboards/index.md",
-
-     { "Creating a dashboard" = "orbit/dashboards/create/index.md" },
-
-     { "Tiles" = "orbit/dashboards/tiles/index.md" },
-
-    ]},
-
-
-    { "Audiences" = [
-     "orbit/audiences/index.md",
-
-     { "Creating an audience" = "orbit/audiences/create/index.md" },
-    ]},
-
-
-    { "Campaigns" = [
-     "orbit/campaigns/index.md",
-
-     { "Creating a campaign" = "orbit/campaigns/create/index.md" },
-    ]},
-
-
-    { "Orin AI assistant" = "orbit/orin/index.md"},
-
-  ]},
+      ]}
+   ]},
+   { "Dashboards" = [
+   "orbit/dashboards/index.md",
+      { "Creating a dashboard" = "orbit/dashboards/create/index.md" },
+      { "Tiles" = "orbit/dashboards/tiles/index.md" },
+   ]},
+   { "Audiences" = [
+   "orbit/audiences/index.md",
+      { "Creating an audience" = "orbit/audiences/create/index.md" },
+   ]},
+   { "Campaigns" = [
+   "orbit/campaigns/index.md",
+      { "Creating a campaign" = "orbit/campaigns/create/index.md" },
+   ]},
+   { "Orin AI assistant" = "orbit/orin/index.md"},
+]},
 
 #-------------------------------------------
 
-   { "FastStats" = [
-    "faststats/index.md",
-    { "Analysis" = "faststats/analysis/index.md" },
-   ]},
+{ "FastStats" = [
+"faststats/index.md",
+   { "Analysis" = "faststats/analysis/index.md" },
+]},
 
 #-------------------------------------------
 
-   { "PeopleStage" = [
-    "peoplestage/index.md",
-    { "Campaigns" = "peoplestage/campaigns/index.md" },
-   ]},
+{ "PeopleStage" = [
+"peoplestage/index.md",
+   { "Campaigns" = "peoplestage/campaigns/index.md" },
+]},
    
 #-------------------------------------------
 
-   { "Designer" = [
-    "designer/index.md",
-    { "System configuration" = "designer/system-configuration/index.md" },
-   ]},
+{ "Designer" = [
+"designer/index.md",
+   { "System configuration" = "designer/system-configuration/index.md" },
+]},
 
 #-------------------------------------------
-   { "Resources" = [
-    "resources/index.md",
-    { "Insider programme" = "resources/insider-programme.md" },
-    { "Release notes" = [
-      "resources/release-notes/index.md",
+
+{ "Resources" = [
+"resources/index.md",
+   { "Insider programme" = "resources/insider-programme.md" },
+   { "Release notes" = [
+   "resources/release-notes/index.md",
       { "Orbit release notes" = [
-         "resources/release-notes/orbit/2026-orbit-release-notes.md",
-         "resources/release-notes/orbit/2025-orbit-release-notes.md",
+      "resources/release-notes/orbit/2026-orbit-release-notes.md",
+      "resources/release-notes/orbit/2025-orbit-release-notes.md",
       ]}
    ]},
 ]},
+
 #-------------------------------------------
-   { "Admin" = [
-    "admin/index.md",
-    { "Installation" = "admin/installation/index.md" },
-   ]},
+
+{ "Admin" = [
+"admin/index.md",
+   { "Installation" = "admin/installation/index.md" },
+]},
+
 #-------------------------------------------
-   { "apteco.com" = "https://www.apteco.com" },
- ]
+
+{ "apteco.com" = "https://www.apteco.com" },
+
+#-------------------------------------------
+
+
+]
 
 #-------------------------------------------
 
@@ -362,4 +357,3 @@ name = "Apteco on YouTube"
 icon = "fontawesome/brands/facebook"
 link = "https://www.facebook.com/Apteco"
 name = "Apteco on Facebook"
-

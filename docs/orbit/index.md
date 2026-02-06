@@ -4,6 +4,8 @@ tags:
   - Orbit
 hide:
   - tags
+  - toc
+
 ---
 
 # Orbit documentation

@@ -20,7 +20,7 @@ hide:
 
     ---
 
-    Unify your data with the Apteco Customer Data Platform
+    Unify your data through the Apteco Customer Data Platform
 
     [:octicons-arrow-right-24: Connect](connect/index.md)
 

@@ -73,6 +73,11 @@ nav = [
 { "FastStats" = [
 "faststats/index.md",
    { "Analysis" = "faststats/analysis/index.md" },
+   { "Visualisation" = "faststats/visualisation/index.md" },
+   { "Modelling" = "faststats/modelling/index.md"},
+   { "Expressions" = "faststats/expressions/index.md"},
+   { "Wizards and Virtual Variables" = "faststats/wizards-and-virtual-variables/index.md"},
+   { "Cascade" = "faststats/cascade/index.md"},
 ]},
 
 #-------------------------------------------
@@ -93,14 +98,16 @@ nav = [
 
 { "Resources" = [
 "resources/index.md",
-   { "Insider programme" = "resources/insider-programme.md" },
    { "Release notes" = [
-   "resources/release-notes/index.md",
       { "Orbit release notes" = [
-      "resources/release-notes/orbit/2026.md",
-      "resources/release-notes/orbit/2025.md",
-      ]}
+      { "2026" = "resources/release-notes/orbit/2026.md"},
+      { "2025" = "resources/release-notes/orbit/2025.md"},
+      ]},
+      { "FastStats release notes" = "resources/release-notes/faststats/2026.md" },
    ]},
+   { "Patch notes" = "resources/patch-notes/index.md" },
+   { "Technical updates" = "resources/technical-updates.md" },
+   { "Apteco insider programme" = "resources/insider-programme.md" },
 ]},
 
 #-------------------------------------------

@@ -40,20 +40,17 @@ use_directory_urls = true
 
 nav = [
 
-   { "Orbit" = [
+#-------------------------------------------
+
+   { Orbit = [
     "orbit/index.md",
-
-
     { "Connect" = [
      "orbit/connect/index.md",
-
      { "Data sources" = [
       "orbit/connect/data-sources/index.md",
-
-      { "File upload" = "orbit/connect/data-sources/file-upload.md" },
-
+      "orbit/connect/data-sources/file-upload.md",
+      "orbit/connect/data-sources/amazon-s3.md",
      ]}
-
     ]},
 
 
@@ -84,51 +81,52 @@ nav = [
     { "Orin AI assistant" = "orbit/orin/index.md"},
   ]},
 
-
+#-------------------------------------------
 
    { "FastStats" = [
     "faststats/index.md",
     { "Analysis" = "faststats/analysis/index.md" },
    ]},
 
-
+#-------------------------------------------
 
    { "PeopleStage" = [
     "peoplestage/index.md",
     { "Campaigns" = "peoplestage/campaigns/index.md" },
    ]},
    
-
+#-------------------------------------------
 
    { "Designer" = [
     "designer/index.md",
     { "System configuration" = "designer/system-configuration/index.md" },
    ]},
 
-
+#-------------------------------------------
 
    { "Admin" = [
     "admin/index.md",
     { "Installation" = "admin/installation/index.md" },
    ]},
 
-
+#-------------------------------------------
 
    { "Releases" = [
     "releases/index.md",
 
-
     { "Insider programme" = "releases/insider-programme.md" },
+
     { "Release notes" = "releases/release-notes/index.md" },
    ]},
 
-
+#-------------------------------------------
 
    { "apteco.com" = "https://www.apteco.com" },
 
 
  ]
 
+#-------------------------------------------
 
 
 [project.theme]

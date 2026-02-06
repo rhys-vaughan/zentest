@@ -35,7 +35,7 @@ Everything you need to get the most out of your Apteco software.
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Release notes](resources/release-notes/index.md)__
+    __[:octicons-arrow-right-24: Release notes](resources/release-notes/orbit/2026.md)__
 
 </div>
 

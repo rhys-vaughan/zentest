@@ -97,8 +97,8 @@ nav = [
    { "Release notes" = [
    "resources/release-notes/index.md",
       { "Orbit release notes" = [
-      "resources/release-notes/orbit/2026-orbit-release-notes.md",
-      "resources/release-notes/orbit/2025-orbit-release-notes.md",
+      "resources/release-notes/orbit/2026.md",
+      "resources/release-notes/orbit/2025.md",
       ]}
    ]},
 ]},

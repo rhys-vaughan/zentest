@@ -35,7 +35,7 @@ Everything you need to get the most out of your Apteco software.
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Releases](releases/index.md)__
+    __[:octicons-arrow-right-24: Release notes](resources/release-notes/index.md)__
 
 </div>
 
@@ -49,11 +49,11 @@ Everything you need to get the most out of your Apteco software.
 
     __Orin dashboard summaries__
 
-    ![Orbit headline feature](assets/images/dashboard-summary.jpg){ width=900 }
+    ![Orbit headline feature](assets/images/resources/release-notes/orbit/sprint-166/dashboard-summary.jpg){ width=900 }
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
-    __[:octicons-arrow-right-24: Read the release notes](releases/index.md)__
+    __[:octicons-arrow-right-24: Read the release notes](resources/release-notes/orbit/2026.md)__
 
 </div>
 

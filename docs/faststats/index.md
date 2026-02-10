@@ -9,50 +9,12 @@ hide:
 
 # FastStats documentation
 
-<div class="grid cards" markdown>
+Apteco FastStats provides powerful, interactive marketing analysis.
 
--   :lucide-between-horizontal-start:{ .lg .middle } __Analaysis__
+Using a consistent and intuitive “drag and drop” approach, FastStats provides a unique combination of speed and power for data exploration and understanding. Every drag and drop action automatically results in a query that can be saved and reused with ease. FastStats’ analysis options are virtually unlimited as any technique can be applied to any results in any order.
 
-    ---
+You can use FastStats standalone or as part of the FastStats .NET architecture.
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+Standalone use maximises speed and flexibility for individual analysts, enabling FastStats to be used for ad-hoc marketing analysis in addition to core strategic and tactical work.
 
-    [:octicons-arrow-right-24: Analaysis](connect/index.md)
-
--   :lucide-chart-column-big:{ .lg .middle } __Visualisation__
-
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Visualisation](dashboards/index.md)
-
--   :lucide-users:{ .lg .middle } __Modelling__
-
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Modelling](audiences/index.md)
-
--   :material-bullhorn-outline:{ .lg .middle } __Expressions__
-
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Expressions](campaigns/index.md)
-
--   :lucide-globe:{ .lg .middle } __Wizards and Virtual Variables__
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Wizards and Virtual Variables](#)
-
--   :lucide-route:{ .lg .middle } __Cascade__
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Cascade](#)
-
-</div>
+FastStats Enterprise connects to the FastStats .NET WebService and provides browser based accessibility, scalability and resilience for marketing work-groups.

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Releases
+  - Resources
 hide:
   - tags
 ---

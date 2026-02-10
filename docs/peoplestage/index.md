@@ -9,50 +9,8 @@ hide:
 
 # PeopleStage documentation
 
-<div class="grid cards" markdown>
+Upon opening the system, you are greeted with a Marketing Processes interface, where all campaigns will be created, managed and reviewed.
 
--   :lucide-between-horizontal-start:{ .lg .middle } __Analaysis__
+The Marketing Processes dashboard shows a summary of the status of campaigns and volumes of communications active within your PeopleStage system.
 
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Analaysis](connect/index.md)
-
--   :lucide-chart-column-big:{ .lg .middle } __Visualisation__
-
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Visualisation](dashboards/index.md)
-
--   :lucide-users:{ .lg .middle } __Modelling__
-
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Modelling](audiences/index.md)
-
--   :material-bullhorn-outline:{ .lg .middle } __Expressions__
-
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Expressions](campaigns/index.md)
-
--   :lucide-globe:{ .lg .middle } __Wizards and Virtual Variables__
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Wizards and Virtual Variables](#)
-
--   :lucide-route:{ .lg .middle } __Cascade__
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Cascade](#)
-
-</div>
+PeopleStage uses a zoomable user interface, enabling marketing processes to be viewed at any level of detail, whatever is appropriate for the user or the current task in hand.

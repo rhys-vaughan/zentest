@@ -1,7 +1,7 @@
 ---
 icon: material/rocket-launch-outline
 tags:
-  - Releases
+  - Resources
 hide:
   - tags
   - toc
@@ -11,52 +11,60 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :lucide-between-horizontal-start:{ .lg .middle } __Release notes__
+-   :lucide-rocket:{ .lg .middle } [__Release notes__](release-notes/orbit/2026.md)
 
     ---
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    [:octicons-arrow-right-24: Release notes](connect/index.md)
-
--   :lucide-chart-column-big:{ .lg .middle } __Patch notes__
+-   :lucide-shield-plus:{ .lg .middle } [__Patch notes__](release-notes/orbit/2026.md)
 
     ---
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    [:octicons-arrow-right-24: Patch notes](dashboards/index.md)
-
--   :lucide-users:{ .lg .middle } __Technical updates__
+-   :lucide-refresh-cw:{ .lg .middle } [__Technical updates__](release-notes/orbit/2026.md)
 
     ---
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    [:octicons-arrow-right-24: Technical updates](audiences/index.md)
-
--   :material-bullhorn-outline:{ .lg .middle } __Apteco Insider Programme__
+-   :lucide-user-star:{ .lg .middle } [__Apteco Insider Programme__](release-notes/orbit/2026.md)
 
     ---
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    [:octicons-arrow-right-24: Apteco Insider Programme](campaigns/index.md)
+-   :lucide-headset:{ .lg .middle } [__Technical services__](release-notes/orbit/2026.md)
 
--   :lucide-globe:{ .lg .middle } __Apteco portal__
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [:octicons-arrow-right-24: Apteco portal](#)
-
--   :lucide-route:{ .lg .middle } __Software roadmap__
+    ---
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    [:octicons-arrow-right-24: Software roadmap](#)
+-   :lucide-route:{ .lg .middle } [__Software roadmap__](release-notes/orbit/2026.md)
+
+    ---
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+-   :lucide-graduation-cap:{ .lg .middle } [__Apteco academy__](release-notes/orbit/2026.md)
+
+    ---
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+-   :lucide-lightbulb:{ .lg .middle } [__Ideas portal__](release-notes/orbit/2026.md)
+
+    ---
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
 </div>
 
-!!! note
+## Useful contacts
 
-    You can also access release documentation from the Apteco portal Software Releases section.
+- __Training and Apteco academy__ - <training@apteco.com>
+- __Technical services__ - <support@apteco.com>
+- __Licenses and renewals__ - <licensing@apteco.com>
+- __Partner enquiries__ - <partner.team@apteco.com>
+- __Portal access issues__ - <info@apteco.com>

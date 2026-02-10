@@ -19,7 +19,7 @@ Everything you need to get the most out of your Apteco software.
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
     
-    __[:octicons-arrow-right-24: Orbit](orbit/index.md)__
+    [Get started](orbit/index.md){ .md-button .md-button--primary }
 
 -   ## :lucide-between-horizontal-start:
 
@@ -27,19 +27,17 @@ Everything you need to get the most out of your Apteco software.
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Connect](orbit/connect/index.md)__
+    [Connect your data](orbit/connect/index.md){ .md-button .md-button--primary }
 
--   ## :lucide-megaphone:
+-   ## :lucide-send:
 
-    ### What's new
+    ### Apteco Email and SMS
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Release notes](resources/release-notes/orbit/2026.md)__
+    [Learn more](resources/release-notes/orbit/2026.md){ .md-button .md-button--primary }
 
 </div>
-
-[Get started with Orbit](orbit/index.md){ .md-button .md-button--primary } [Connect your data](orbit/connect/index.md){ .md-button }
 
 <br/>
 
@@ -49,70 +47,30 @@ Everything you need to get the most out of your Apteco software.
 
     __Orin dashboard summaries__
 
-    ![Orbit headline feature](assets/images/resources/dashboard-summary.png){ width=900 }
+    Orin can generate intelligent summaries of your dashboards, providing instant overviews of the insights and visualisations they contain. 
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+    ![Orbit headline feature](assets/images/resources/dashboard-summary.png){ width=1100 }
+
+    When you request a dashboard summary, Orin analyses the content and creates a concise description that you can share with colleagues or use to understand unfamiliar dashboards.
 
     __[:octicons-arrow-right-24: Read the release notes](resources/release-notes/orbit/2026.md)__
 
+    ---
+
+    !!! tip "Want to stay in the loop?"
+
+        Join the [Apteco Insider Programme](releases/insider-programme.md) to get early access to upcoming features and the opportunity to shape our product development. You'll receive regular updates about new preview features and opportunities to participate in early testing.
+
 </div>
-
-!!! tip "Want to stay in the loop?"
-
-    Join the [Apteco Insider Programme](releases/insider-programme.md) to get early access to upcoming features and the opportunity to shape our product development. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
 [![Orin AI assistant promotional banner](assets/images/banners/banner-test.jpg)](https://www.apteco.com/community/news/introducing-orin-aptecos-new-ai-assistant)
 
-## More resources
+---
 
-<div class="grid cards" markdown>
+## Need support?
 
--   ## :lucide-message-circle-question-mark:
+If you didn't find the answer you're looking for, don't worry. 
 
-    ### Need support?
+We're here to help!
 
-    If you didn't find the answer you're looking for, don't worry. We're here to help!
-
-    [Contact tech services](https://www.apteco.com/contact){ .md-button .md-button--primary }
-
--   ## :lucide-graduation-cap:
-
-    ### Apteco academy
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [Academy](https://www.apteco.com/learn/academy){ .md-button .md-button--primary }
-
--   ## :lucide-route:
-
-    ### Software roadmap
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [Roadmap](https://portal.apteco.com/sales-marketing/software-roadmap){ .md-button .md-button--primary }
-
--   ## :lucide-handshake:
-
-    ### Apteco community
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [Community](https://www.apteco.com/community){ .md-button .md-button--primary }
-
--   ## :lucide-globe:
-
-    ### Apteco portal
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [Portal](https://portal.apteco.com/){ .md-button .md-button--primary }
-
--   ## :lucide-rss:
-
-    ### Insights
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
-    [Blog](https://www.apteco.com/insights){ .md-button .md-button--primary }
-
-</div>
+[Contact tech services](https://www.apteco.com/contact){ .md-button .md-button--primary }

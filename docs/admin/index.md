@@ -6,4 +6,4 @@ hide:
   - tags
 ---
 
-# Administraion guides
+# Administration

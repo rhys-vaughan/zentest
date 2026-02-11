@@ -17,7 +17,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco Orbit
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    An end-to-end actionable marketiong insights platform, connecting you with your data.
     
     [Get started](orbit/index.md){ .md-button .md-button--primary }
 
@@ -25,7 +25,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco Customer Data Platform
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    Unify your customer data in the Apteco Cloud and activate personalised campaigns.
 
     [Connect your data](orbit/connect/index.md){ .md-button .md-button--primary }
 
@@ -33,7 +33,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco Email and SMS
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    Automate journeys and supercharge your email and SMS marketing.
 
     [Learn more](orbit/campaigns/apteco-email/index.md){ .md-button .md-button--primary }
 
@@ -73,4 +73,4 @@ If you didn't find the answer you're looking for, don't worry.
 
 We're here to help!
 
-[Contact tech services](https://www.apteco.com/contact){ .md-button .md-button--primary }
+[Contact tech services](mailto:support@apteco.com){ .md-button .md-button--primary }

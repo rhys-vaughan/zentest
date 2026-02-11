@@ -7,25 +7,23 @@ hide:
   - toc
 ---
 
-# Orbit documentation
+# Orbit
 
-## The end-to-end marketing platform
-
-Brief intro paragraph
+An end-to-end actionable marketiong insights platform, connecting you with your data.
 
 ![End-to-end marketing platform](../assets/images/orbit/orbit-end-to-end.png)
 
 <div class="grid cards" markdown>
 
--   ### :lucide-between-horizontal-start:{ .lg .middle } __Build your system__
+-   :lucide-between-horizontal-start:{ .lg .middle } __Build your system__
 
     ---
 
-    Unify your data through the Apteco Customer Data Platform
+    Unify your data through the Apteco Customer Data Platform.
 
     [:octicons-arrow-right-24: Connect](connect/index.md)
 
--   ### :lucide-chart-column-big:{ .lg .middle } __Analyse your data__
+-   :lucide-chart-column-big:{ .lg .middle } __Analyse your data__
 
     ---
 
@@ -33,7 +31,7 @@ Brief intro paragraph
 
     [:octicons-arrow-right-24: Dashboards](dashboards/index.md)
 
--   ### :lucide-users:{ .lg .middle } __Target your audience__
+-   :lucide-users:{ .lg .middle } __Target your audience__
 
     ---
 
@@ -41,7 +39,7 @@ Brief intro paragraph
 
     [:octicons-arrow-right-24: Audiences](audiences/index.md)
 
--   ### :material-bullhorn-outline:{ .lg .middle } __Create your campaign__
+-   :material-bullhorn-outline:{ .lg .middle } __Create your campaign__
 
     ---
 

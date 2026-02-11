@@ -1,6 +1,6 @@
 ---
 tags:
-  - admin
+  - Admin
 hide:
   - tags
 ---

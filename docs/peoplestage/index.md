@@ -7,7 +7,7 @@ hide:
   - toc
 ---
 
-# PeopleStage documentation
+# PeopleStage
 
 Upon opening the system, you are greeted with a Marketing Processes interface, where all campaigns will be created, managed and reviewed.
 

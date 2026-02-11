@@ -7,7 +7,7 @@ hide:
   - toc
 ---
 
-# FastStats documentation
+# FastStats
 
 Apteco FastStats provides powerful, interactive marketing analysis.
 

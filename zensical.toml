@@ -4,7 +4,7 @@ site_name = "Apteco Help Hub"
 site_url = "https://help.apteco.com/"
 site_description = "The Apteco Help Hub is the official documentation site for Apteco software products."
 site_author = "Rhys Vaughan"
-copyright = """Copyright &copy; 2026 Apteco • All rights reserved."""
+copyright = """ &copy; 2026 Apteco All rights reserved • <a href="https://www.apteco.com/privacy-policy">Privacy policy</a> • <a href="https://www.apteco.com/contact">Contact</a> """
 docs_dir = "docs"
 site_dir = "site"
 edit_uri = "edit/main/docs/"
@@ -41,6 +41,7 @@ nav = [
       { "Campaigns" = [
          "orbit/campaigns/index.md",
          { "Creating a campaign" = "orbit/campaigns/create/index.md" },
+         { "Apteco email" = "orbit/campaigns/apteco-email/index.md" },
       ]},
       { "Orin AI assistant" = "orbit/orin/index.md"},
    ]},

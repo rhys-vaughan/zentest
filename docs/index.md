@@ -17,7 +17,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco Orbit
 
-    An end-to-end actionable marketiong insights platform, connecting you with your data.
+    An end-to-end actionable marketing insights platform, connecting you with your data.
     
     [Get started](orbit/index.md){ .md-button .md-button--primary }
 

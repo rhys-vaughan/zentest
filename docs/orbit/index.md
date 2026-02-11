@@ -9,7 +9,7 @@ hide:
 
 # Orbit
 
-An end-to-end actionable marketiong insights platform, connecting you with your data.
+An end-to-end actionable marketing insights platform, connecting you with your data.
 
 ![End-to-end marketing platform](../assets/images/orbit/orbit-end-to-end.png)
 

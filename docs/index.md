@@ -1,5 +1,5 @@
 ---
-icon: lucide/orbit
+icon: lucide/house
 title: Home
 hide:
   - footer
@@ -35,7 +35,7 @@ Everything you need to get the most out of your Apteco software.
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    [Learn more](resources/release-notes/orbit/2026.md){ .md-button .md-button--primary }
+    [Learn more](orbit/campaigns/apteco-email/index.md){ .md-button .md-button--primary }
 
 </div>
 
@@ -43,9 +43,9 @@ Everything you need to get the most out of your Apteco software.
 
 <div class="grid cards" markdown>
 
-- ### What's new in Orbit
+- ## What's new in Orbit
 
-    __Orin dashboard summaries__
+    #### Orin dashboard summaries
 
     Orin can generate intelligent summaries of your dashboards, providing instant overviews of the insights and visualisations they contain. 
 

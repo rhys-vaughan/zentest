@@ -18,9 +18,9 @@ extra_css = ["stylesheets/extra.css"]
 # Navigation structure
 nav = [
    { "Home" = "index.md" },
-   { Orbit = [
+   { "Orbit" = [
       "orbit/index.md",
-      { "Getting started" = "orbit/getting-started/index.md" },
+      { "Getting started" = "orbit/getting-started.md" },
       { "Connect" = [
          "orbit/connect/index.md",
          { "Data sources" = [
@@ -47,36 +47,36 @@ nav = [
 
    { "FastStats" = [
       "faststats/index.md",
-      { "Getting started" = "faststats/getting-started/index.md" },
+      { "Getting started" = "faststats/getting-started.md" },
       { "Analysis" = "faststats/analysis/index.md" },
       { "Visualisation" = "faststats/visualisation/index.md" },
       { "Modelling" = "faststats/modelling/index.md"},
       { "Expressions" = "faststats/expressions/index.md"},
-      { "Wizards and Virtual Variables" = "faststats/wizards-and-virtual-variables/index.md"},
+      { "Wizards and virtual variables" = "faststats/wizards-and-virtual-variables/index.md"},
       { "Cascade" = "faststats/cascade/index.md"},
    ]},
 
    { "PeopleStage" = [
       "peoplestage/index.md",
-      { "Getting started" = "peoplestage/getting-started/index.md" },
+      { "Getting started" = "peoplestage/getting-started.md" },
       { "Campaigns" = "peoplestage/campaigns/index.md" },
       { "Customisation" = "peoplestage/customisation/index.md" },
       { "Responses" = "peoplestage/responses/index.md" },
       { "Reporting" = "peoplestage/reporting/index.md" },
-      { "Integrations" = "peoplestage/integrations/index.md" },
+      { "Integration" = "peoplestage/integration/index.md" },
    ]},
 
    { "Designer" = [
       "designer/index.md",
-      { "Getting started" = "designer/getting-started/index.md" },
+      { "Getting started" = "designer/getting-started.md" },
       { "System configuration" = "designer/system-configuration/index.md" },
       { "Data sources" = "designer/data-sources/index.md" },
-      { "Table Relationships" = "designer/table-relationships/index.md" },
-      { "Define Variables" = "designer/define-variables/index.md" },
-      { "Folder Structure" = "designer/folder-structure/index.md" },
-      { "Pre-Load Actions" = "designer/pre-load-actions/index.md" },
-      { "Post-Load Actions" = "designer/post-load-actions/index.md" },
-      { "Build Faststats System" = "designer/build-faststats-models/index.md" },
+      { "Table relationships" = "designer/table-relationships/index.md" },
+      { "Define variables" = "designer/define-variables/index.md" },
+      { "Folder structure" = "designer/folder-structure/index.md" },
+      { "Pre-load actions" = "designer/pre-load-actions/index.md" },
+      { "Post-load actions" = "designer/post-load-actions/index.md" },
+      { "Build Faststats system" = "designer/build-faststats-system/index.md" },
       { "Miscellaneous" = "designer/miscellaneous/index.md" },
    ]},
 
@@ -89,20 +89,20 @@ nav = [
          ]},
       { "FastStats release notes" = "resources/release-notes/faststats/2026.md" },
       ]},
-      { "Patch notes" = "resources/patch-notes/index.md" },
-      { "Technical updates" = "resources/technical-updates.md" },
+      { "Patches" = "resources/patches/index.md" },
+      { "Technical updates" = "resources/tech-updates/index.md" },
       { "Apteco insider programme" = "resources/insider-programme.md" },
    ]},
 
    { "Admin" = [
       "admin/index.md",
-      { "Requirements and prerequisites" = "admin/requirements-and-prerequisites.md" },
+      { "Requirements and prerequisites" = "admin/requirements-and-prerequisites/index.md" },
       { "Installation" = "admin/installation/index.md" },
       { "Configuration" = "admin/configuration/index.md" },
       { "Integration" = "admin/integration/index.md" },
-      { "Security and privacy" = "admin/security-and-privacy.md" },
-      { "Roles and rights" = "admin/roles-and-rights.md" },
-      { "PDF technical guides" = "admin/pdf-technical-guides.md" },
+      { "Security and privacy" = "admin/security-and-privacy/index.md" },
+      { "Roles and rights" = "admin/roles-and-rights/index.md" },
+      { "PDF technical guides" = "admin/pdf-technical-guides/index.md" },
    ]},
 
    { "apteco.com" = "https://www.apteco.com" },
@@ -171,7 +171,7 @@ features = [
    "search.highlight",
    "toc.follow",
    # "toc.integrate",
-   # "announce.dismiss",
+   "announce.dismiss",
    "navigation.footer",
    "navigation.indexes",
    "navigation.instant",
@@ -181,11 +181,10 @@ features = [
    "navigation.tabs",
    "navigation.top",
    "navigation.tracking",
-   # "navigation.prune",
+   "navigation.prune",
    # "navigation.sections",
-   # "navigation.tabs.sticky",
+   #"navigation.tabs.sticky",
    # "navigation.expand",
-
 ]
 
 # Project fonts

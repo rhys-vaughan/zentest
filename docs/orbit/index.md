@@ -5,18 +5,19 @@ tags:
 hide:
   - tags
   - toc
-
 ---
 
 # Orbit documentation
 
 ## The end-to-end marketing platform
 
+Brief intro paragraph
+
 ![End-to-end marketing platform](../assets/images/orbit/orbit-end-to-end.png)
 
 <div class="grid cards" markdown>
 
--   :lucide-between-horizontal-start:{ .lg .middle } __Build your system__
+-   ### :lucide-between-horizontal-start:{ .lg .middle } __Build your system__
 
     ---
 
@@ -24,7 +25,7 @@ hide:
 
     [:octicons-arrow-right-24: Connect](connect/index.md)
 
--   :lucide-chart-column-big:{ .lg .middle } __Analyse your data__
+-   ### :lucide-chart-column-big:{ .lg .middle } __Analyse your data__
 
     ---
 
@@ -32,7 +33,7 @@ hide:
 
     [:octicons-arrow-right-24: Dashboards](dashboards/index.md)
 
--   :lucide-users:{ .lg .middle } __Target your audience__
+-   ### :lucide-users:{ .lg .middle } __Target your audience__
 
     ---
 
@@ -40,7 +41,7 @@ hide:
 
     [:octicons-arrow-right-24: Audiences](audiences/index.md)
 
--   :material-bullhorn-outline:{ .lg .middle } __Create your campaign__
+-   ### :material-bullhorn-outline:{ .lg .middle } __Create your campaign__
 
     ---
 

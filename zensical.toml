@@ -4,7 +4,7 @@ site_name = "Apteco Help Hub"
 site_url = "https://help.apteco.com/"
 site_description = "The Apteco Help Hub is the official documentation site for Apteco software products."
 site_author = "Rhys Vaughan"
-copyright = """ &copy; 2026 Apteco All rights reserved • <a href="https://www.apteco.com/privacy-policy">Privacy policy</a> • <a href="https://www.apteco.com/contact">Contact</a> """
+copyright = """ &copy; 2026 Apteco All rights reserved • <a href="https://www.apteco.com/privacy-policy">Privacy</a> • <a href="https://www.apteco.com/contact">Contact</a> """
 docs_dir = "docs"
 site_dir = "site"
 edit_uri = "edit/main/docs/"
@@ -196,8 +196,15 @@ font.code = "JetBrains Mono"
 [project.theme.icon]
 admonition = {note = "lucide/square-pen", example = "lucide/book-open-text"}
 
+# Palette toggle for automatic mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Switch to light mode"
+
 # Palette toggle for light mode
 [[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
 scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
@@ -205,6 +212,7 @@ primary = "custom"
 
 # Palette toggle for dark mode
 [[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"

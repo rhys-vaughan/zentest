@@ -39,7 +39,7 @@ hide:
 
     ---
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    [Knowledge base](https://support.apteco.com/portal/en-gb/kb/techservices). [Contact support - portal](https://portal.apteco.com/contact-support).
 
 -   ### :lucide-route:{ .lg .middle } [__Software roadmap__](https://apteco.aha.io/shared/2b8629e94e9f686fb9a5dc9e8da2f917)
 
@@ -51,7 +51,7 @@ hide:
 
     ---
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    [learning.apteco.com](https://learning.apteco.com/). [portal.apteco.com/training](https://portal.apteco.com/training).
 
 -   ### :lucide-lightbulb:{ .lg .middle } [__Ideas portal__](https://ideas.apteco.com/)
 
@@ -63,9 +63,17 @@ hide:
 
 ## Useful contacts
 
-- __Apteco offices__ - [apteco.com/contact](https://www.apteco.com/contact)
+- __Apteco office locations__ - [apteco.com/contact](https://www.apteco.com/contact)
 - __Training and Apteco academy__ - <training@apteco.com>
 - __Technical services__ - <support@apteco.com>
 - __Licenses and renewals__ - <licensing@apteco.com>
 - __Partner enquiries__ - <partner.team@apteco.com>
-- __Portal access issues__ - <info@apteco.com>
+
+### General enquiries
+
+- __Apteco Limited, UK__ - <info@apteco.com>
+- __Apteco GmbH__ - <info@apteco.de>
+- __Apteco Australia Pty Ltd__ - <info@apteco.com.au>
+- __Apteco Benelux BV__ - <info@apteco.nl>
+- __Apteco Canada Inc.__ - <info@apteco.ca>
+- __Apteco New Zealand Limited__ - <info@apteco.co.nz>

@@ -10,6 +10,7 @@ site_dir = "site"
 edit_uri = "edit/main/docs/"
 use_directory_urls = true
 # Repository information
+#-------
 repo_name = "Apteco/help-hub"
 repo_url = "https://github.com/rhys-vaughan/zentest"
 # Extra CSS

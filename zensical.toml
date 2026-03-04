@@ -15,7 +15,6 @@ use_directory_urls = true
 # Extra CSS
 extra_css = ["stylesheets/extra.css"]
 
-
 # Navigation structure
 nav = [
    { "Home" = "index.md" },
@@ -85,6 +84,7 @@ nav = [
    { "Resources" = [
       "resources/index.md",
       { "Release notes" = [
+         "resources/release-notes/index.md",
          { "Orbit release notes" = [
          { "2026" = "resources/release-notes/orbit/2026.md"},
          { "2025" = "resources/release-notes/orbit/2025.md"},
@@ -94,6 +94,8 @@ nav = [
       { "Patches" = "resources/patches/index.md" },
       { "Technical updates" = "resources/tech-updates/index.md" },
       { "Apteco insider programme" = "resources/insider-programme.md" },
+      { "Technical services" = "resources/tech-services.md" },
+      { "Training" = "resources/training.md" },
    ]},
 
    { "Admin" = [
@@ -149,6 +151,7 @@ name = "Apteco on YouTube"
 icon = "fontawesome/brands/facebook"
 link = "https://www.facebook.com/Apteco"
 name = "Apteco on Facebook"
+
 
 # Theme configuration
 [project.theme]

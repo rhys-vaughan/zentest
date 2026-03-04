@@ -17,7 +17,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco Orbit
 
-    An end-to-end actionable marketing insights platform, connecting you with your data.
+    Analyse data and manage targeted campaigns – all on one intuitive platform.
 
     __[:octicons-arrow-right-24: Orbit](orbit/index.md)__
 
@@ -41,7 +41,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco FastStats
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    Analyse millions of customer data records in seconds and turn your insights into action.
 
     __[:octicons-arrow-right-24: FastStats](faststats/index.md)__
 
@@ -49,7 +49,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco PeopleStage
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    Build powerful campaigns and orchestrate journeys across all your channels.
 
     __[:octicons-arrow-right-24: PeopleStage](peoplestage/index.md)__
 
@@ -57,15 +57,15 @@ Everything you need to get the most out of your Apteco software.
 
     ### FastStats Designer
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    Configure and build powerful FastStats databases from external data sources.
 
     __[:octicons-arrow-right-24: Designer](designer/index.md)__
 
 </div>
 
-<br/>
+---
 
-!!! success "What's new"
+!!! note "What's new"
 
     __Orin dashboard summaries__
 

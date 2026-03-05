@@ -1,4 +1,5 @@
 ---
+icon: lucide/list-check
 tags:
   - Admin
 hide:

@@ -1,4 +1,5 @@
 ---
+icon: lucide/user-star
 tags:
   - Resources
 hide:

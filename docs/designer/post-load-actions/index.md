@@ -1,4 +1,5 @@
 ---
+icon: lucide/scroll-text
 tags:
   - Designer
 hide:

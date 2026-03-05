@@ -1,4 +1,5 @@
 ---
+icon: lucide/tags
 tags:
   - FastStats
 hide:

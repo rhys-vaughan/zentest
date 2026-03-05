@@ -35,13 +35,13 @@ hide:
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-headset:{ .lg .middle } &nbsp; [__Technical services__](tech-services.md)
+-   ### :lucide-contact-round:{ .lg .middle } &nbsp; [__Useful contacts__](contact.md)
 
     ---
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-route:{ .lg .middle } &nbsp; [__Software roadmap__](https://apteco.aha.io/shared/2b8629e94e9f686fb9a5dc9e8da2f917)
+-   ### :lucide-headset:{ .lg .middle } &nbsp; [__Technical services__](support.md)
 
     ---
 
@@ -53,19 +53,43 @@ hide:
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-lightbulb:{ .lg .middle } &nbsp; [__Ideas portal__](https://ideas.apteco.com/)
+-   ### :lucide-route:{ .lg .middle } &nbsp; [__Software roadmap :lucide-external-link:__](https://apteco.aha.io/shared/2b8629e94e9f686fb9a5dc9e8da2f917)
 
     ---
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-loader:{ .lg .middle } &nbsp; [__Status page__](https://apteco.statuspage.io/)
+-   ### :lucide-lightbulb:{ .lg .middle } &nbsp; [__Ideas portal :lucide-external-link:__](https://ideas.apteco.com/)
 
     ---
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-rss:{ .lg .middle } &nbsp; [__Blog__](https://www.apteco.com/insights)
+-   ### :lucide-loader:{ .lg .middle } &nbsp; [__Systems status :lucide-external-link:__](https://apteco.statuspage.io/)
+
+    ---
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+-   ### :lucide-rss:{ .lg .middle } &nbsp; [__Blog :lucide-external-link:__](https://www.apteco.com/insights)
+
+    ---
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+-   ### :lucide-list-checks:{ .lg .middle } &nbsp; [__Customer stories :lucide-external-link:__](https://www.apteco.com/insights)
+
+    ---
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+-   ### :lucide-heart-handshake:{ .lg .middle } &nbsp; [__Partner resources :lucide-external-link:__](https://www.apteco.com/community/international-partner-network)
+
+    ---
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+-   ### :lucide-search-check:{ .lg .middle } &nbsp; [__Try Apteco software :lucide-external-link:__](https://www.apteco.com/community/international-partner-network)
 
     ---
 
@@ -76,11 +100,3 @@ hide:
 !!! tip "Want to stay in the loop?"
 
     Join the [Apteco Insider Programme](releases/insider-programme.md) to get early access to upcoming features and the opportunity to shape our product development. You'll receive regular updates about new preview features and opportunities to participate in early testing.
-
-## Useful contacts
-
-- __General enquiries__ - [apteco.com/contact](https://www.apteco.com/contact)
-- __Training and Apteco academy__ - <training@apteco.com>
-- __Technical services__ - <support@apteco.com>
-- __Licenses and renewals__ - <licensing@apteco.com>
-- __Partner enquiries__ - <partner.team@apteco.com>

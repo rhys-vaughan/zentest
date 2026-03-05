@@ -1,4 +1,5 @@
 ---
+icon: lucide/arrow-right
 tags:
   - PeopleStage
 hide:

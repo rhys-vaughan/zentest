@@ -1,4 +1,5 @@
 ---
+icon: lucide/graduation-cap
 tags:
   - Resources
 hide:

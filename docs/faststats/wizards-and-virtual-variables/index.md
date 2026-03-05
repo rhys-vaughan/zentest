@@ -1,4 +1,5 @@
 ---
+icon: lucide/app-window
 tags:
   - FastStats
 hide:

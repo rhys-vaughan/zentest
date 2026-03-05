@@ -1,5 +1,5 @@
 ---
-icon: material/bullhorn-outline
+icon: lucide/megaphone
 tags:
   - Orbit
 hide:

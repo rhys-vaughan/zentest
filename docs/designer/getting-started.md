@@ -1,4 +1,5 @@
 ---
+icon: lucide/arrow-right
 tags:
   - Designer
 hide:

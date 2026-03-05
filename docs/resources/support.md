@@ -1,4 +1,5 @@
 ---
+icon: lucide/headset
 tags:
   - Resources
 hide:

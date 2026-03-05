@@ -1,4 +1,5 @@
 ---
+icon: lucide/parentheses
 tags:
   - FastStats
 hide:

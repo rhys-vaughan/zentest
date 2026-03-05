@@ -1,4 +1,5 @@
 ---
+icon: lucide/box
 tags:
   - FastStats
 hide:

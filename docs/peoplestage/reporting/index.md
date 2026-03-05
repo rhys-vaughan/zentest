@@ -1,4 +1,5 @@
 ---
+icon: lucide/clipboard-list
 tags:
   - PeopleStage
 hide:

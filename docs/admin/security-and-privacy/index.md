@@ -1,4 +1,5 @@
 ---
+icon: lucide/shield-check
 tags:
   - Admin
 hide:

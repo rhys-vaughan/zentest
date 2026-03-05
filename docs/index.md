@@ -17,7 +17,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco Orbit
 
-    Analyse data and manage targeted campaigns – all on one intuitive platform.
+    Analyse data and manage targeted campaigns, all on one intuitive platform.
 
     __[:octicons-arrow-right-24: Orbit](orbit/index.md)__
 
@@ -83,7 +83,7 @@ Everything you need to get the most out of your Apteco software.
 
 ## Need support?
 
-If you didn't find the answer you're looking for, don't worry. 
+If you didn't find the answer you're looking for, don't worry.
 
 We're here to help!
 

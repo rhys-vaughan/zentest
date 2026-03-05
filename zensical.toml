@@ -1,10 +1,10 @@
 [project]
 # Top-level settings
-site_name = "Apteco Help Hub"
+site_name = "Apteco docs"
 site_url = "https://help.apteco.com/"
-site_description = "The Apteco Help Hub is the official documentation site for Apteco software products."
+site_description = "Official documentation site for Apteco software products."
 site_author = "Rhys Vaughan"
-copyright = """ &copy; 2026 Apteco &nbsp; All rights reserved. """
+copyright = """ &copy; Apteco 2026 &nbsp; All rights reserved. """
 docs_dir = "docs"
 site_dir = "site"
 #edit_uri = "edit/main/docs/"
@@ -25,7 +25,7 @@ nav = [
          "orbit/connect/index.md",
          { "Data sources" = [
             "orbit/connect/data-sources/index.md",
-            "orbit/connect/data-sources/file-upload.md",
+            "orbit/connect/data-sources/file.md",
             "orbit/connect/data-sources/amazon-s3.md",
          ]}
       ]},
@@ -77,7 +77,7 @@ nav = [
       { "Folder structure" = "designer/folder-structure/index.md" },
       { "Pre-load actions" = "designer/pre-load-actions/index.md" },
       { "Post-load actions" = "designer/post-load-actions/index.md" },
-      { "Build Faststats system" = "designer/build-faststats-system/index.md" },
+      { "Build FastStats system" = "designer/build-faststats-system/index.md" },
       { "Miscellaneous" = "designer/miscellaneous/index.md" },
    ]},
 
@@ -94,7 +94,8 @@ nav = [
       { "Patches" = "resources/patches/index.md" },
       { "Technical updates" = "resources/tech-updates/index.md" },
       { "Apteco insider programme" = "resources/insider-programme.md" },
-      { "Technical services" = "resources/tech-services.md" },
+      { "Useful contacts" = "resources/contact.md" },
+      { "Technical services" = "resources/support.md" },
       { "Training" = "resources/training.md" },
    ]},
 
@@ -105,7 +106,6 @@ nav = [
       { "Configuration" = "admin/configuration/index.md" },
       { "Integration" = "admin/integration/index.md" },
       { "Security and privacy" = "admin/security-and-privacy/index.md" },
-      { "Roles and rights" = "admin/roles-and-rights/index.md" },
       { "PDF technical guides" = "admin/pdf-technical-guides/index.md" },
    ]},
 
@@ -151,6 +151,10 @@ name = "Apteco on YouTube"
 icon = "fontawesome/brands/facebook"
 link = "https://www.facebook.com/Apteco"
 name = "Apteco on Facebook"
+[[project.extra.social]]
+icon = "fontawesome/solid/address-book"
+link = "https://www.apteco.com/contact"
+name = "Contact us"
 
 
 # Theme configuration

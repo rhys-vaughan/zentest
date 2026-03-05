@@ -1,4 +1,5 @@
 ---
+icon: lucide/message-square-reply
 tags:
   - PeopleStage
 hide:

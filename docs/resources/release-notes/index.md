@@ -1,4 +1,5 @@
 ---
+icon: lucide/rocket
 tags:
   - Resources
 hide:

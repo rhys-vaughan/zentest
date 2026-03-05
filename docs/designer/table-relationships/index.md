@@ -1,4 +1,5 @@
 ---
+icon: lucide/network
 tags:
   - Designer
 hide:

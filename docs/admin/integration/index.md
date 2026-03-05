@@ -1,4 +1,5 @@
 ---
+icon: lucide/blocks
 tags:
   - Admin
 hide:

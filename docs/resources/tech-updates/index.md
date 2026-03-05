@@ -1,4 +1,5 @@
 ---
+icon: lucide/refresh-cw
 tags:
   - Resources
 hide:

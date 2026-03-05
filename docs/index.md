@@ -11,7 +11,7 @@ hide:
 
 Everything you need to get the most out of your Apteco software.
 
-<div class="grid cards" markdown>
+<div class="grid cards home-tiles" markdown>
 
 -   ![Orbit](assets/images/orbit-icon.svg){ width="70" }
 
@@ -25,7 +25,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco Customer Data Platform
 
-    Unify your customer data in the Apteco Cloud and activate personalised campaigns.
+    Unify your customer data in the Apteco Cloud to activate personalised campaigns.
 
     __[:octicons-arrow-right-24: Connect](orbit/connect/index.md)__
 

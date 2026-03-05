@@ -112,6 +112,7 @@ nav = [
    { "apteco.com" = "https://www.apteco.com" },
 ]
 
+
 # Extra settings
 [project.extra]
 # generator = false

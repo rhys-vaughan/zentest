@@ -7,11 +7,11 @@ hide:
   - toc
 ---
 
-# Apteco Orbit
+# Orbit
 
 An end-to-end actionable marketing insights platform, connecting you with your data.
 
-<div class="grid cards" markdown>
+<div class="grid cards home-tiles" markdown>
 
 -   ![Connect](../assets/images/orbit/icon-orbit-connect-violet.png){ width="70" }
 

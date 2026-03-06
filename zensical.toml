@@ -7,13 +7,14 @@ site_author = "Rhys Vaughan"
 copyright = """ &copy; Apteco 2026 &nbsp; All rights reserved. """
 docs_dir = "docs"
 site_dir = "site"
-#edit_uri = "edit/main/docs/"
 use_directory_urls = true
+# Extra CSS/JS
+extra_css = ["assets/stylesheets/extra.css"]
+extra_javascript = ["assets/javascripts/extra.js"]
 # Repository information
 #repo_name = "Apteco/help-hub"
 #repo_url = "https://github.com/rhys-vaughan/zentest"
-# Extra CSS
-extra_css = ["stylesheets/extra.css"]
+#edit_uri = "edit/main/docs/"
 
 # Navigation structure
 nav = [
@@ -111,7 +112,6 @@ nav = [
 
    { "apteco.com" = "https://www.apteco.com" },
 ]
-
 
 # Extra settings
 [project.extra]

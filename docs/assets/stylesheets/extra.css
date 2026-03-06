@@ -1,0 +1,140 @@
+/* =========================================
+   Brand colors
+   ========================================= */
+:root > * {
+  --md-primary-fg-color:        #00A5AA;
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #90030C;
+}
+
+/* =========================================
+   Announcement banner
+   ========================================= */
+.md-banner {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 0.3rem 0;
+}
+.md-banner__inner {
+  /* large container is fine; leave as-is */
+  max-width: 500em;
+  margin: 0 auto;
+  padding: 0 1rem;
+  text-align: center;
+}
+.md-banner a { color: white; margin-left: 0.5rem; }
+.md-banner a:hover { opacity: 0.8; }
+
+/* =========================================
+   Repo source area – collapse completely
+   (IMPORTANT: frees right-side space)
+   ========================================= */
+.md-header__source {
+  /* Was: visibility:hidden (kept the space) */
+  display: none !important;
+}
+
+/* =========================================
+   Search bar
+   ========================================= */
+/* Widen the search bar in the header */
+.md-search__button {
+  width: 22rem !important;   /* change to your preferred width */
+}
+
+/* Move the Ctrl+K search label up */
+.md-search__button:after {
+  top: 0.25rem !important;   /* move up; use negative values to raise */
+}
+
+/* =========================================
+   Footer color scheme (unchanged visuals)
+   ========================================= */
+.md-footer-meta { background-color: #232C61; }
+.md-copyright__highlight { color: white; }
+html .md-footer-meta.md-typeset a:not(:focus, :hover) { color: white; }
+.md-copyright { color: white; }
+
+/* =========================================
+   Homepage gradient tiles
+   ========================================= */
+.grid.cards.home-tiles {
+  --tile-gap: 1rem;
+  --tile-radius: 0.5rem;
+  --tile-outline: 1px;
+  --tile-bottom-bar: 8px;
+  --tile-shadow: var(--md-shadow-z1, 0 2px 8px rgba(0,0,0,.08));
+  --tile-shadow-hover: var(--md-shadow-z2, 0 6px 24px rgba(0,0,0,.12));
+  --tile-bg: var(--md-default-bg-color, #fff);
+  --tile-c1: #22c1c3;
+  --tile-c2: #2196f3;
+  --tile-c3: #7b1fa2;
+  --tile-gradient: linear-gradient(135deg, #00A5AA, #8600C8);
+
+  grid-gap: var(--tile-gap);
+}
+
+.grid.cards.home-tiles > ol > li,
+.grid.cards.home-tiles > ul > li,
+.grid.cards.home-tiles > .card {
+  position: relative;
+  background: var(--tile-bg);
+  border: 1px solid transparent;
+  border-radius: var(--tile-radius);
+  padding: 1.25rem;
+  box-shadow: var(--tile-shadow);
+  transition: transform .25s ease, box-shadow .25s ease, background-color .25s ease;
+  transform: translate3d(0, 0, 0);
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
+.grid.cards.home-tiles > ol > li::before,
+.grid.cards.home-tiles > ul > li::before,
+.grid.cards.home-tiles > .card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: var(--tile-outline);
+  background: var(--tile-gradient);
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+          mask-composite: exclude;
+  pointer-events: none;
+}
+
+.grid.cards.home-tiles > ol > li::after,
+.grid.cards.home-tiles > ul > li::after,
+.grid.cards.home-tiles > .card::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: var(--tile-bottom-bar);
+  background: var(--tile-gradient);
+  border-bottom-left-radius: calc(var(--tile-radius) - 1px);
+  border-bottom-right-radius: calc(var(--tile-radius) - 1px);
+  pointer-events: none;
+}
+
+.grid.cards.home-tiles > ol > li:hover,
+.grid.cards.home-tiles > ul > li:hover,
+.grid.cards.home-tiles > .card:hover,
+.grid.cards.home-tiles > ol > li:focus-within,
+.grid.cards.home-tiles > ul > li:focus-within,
+.grid.cards.home-tiles > .card:focus-within,
+.grid.cards.home-tiles a.card-stretch:focus {
+  transform: translate3d(0, -2px, 0);
+  box-shadow: var(--tile-shadow-hover);
+  border-color: transparent !important;
+}
+
+.grid.cards.home-tiles h3,
+.grid.cards.home-tiles h4 { margin: .4rem 0 .25rem 0; }
+
+.grid.cards.home-tiles p {
+  margin: 0 0 .25rem 0;
+  color: var(--md-default-fg-color--light, #5b6570);
+}

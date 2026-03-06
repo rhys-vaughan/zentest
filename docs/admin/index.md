@@ -6,4 +6,4 @@ hide:
   - tags
 ---
 
-# Administration
+# Admin

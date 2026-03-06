@@ -16,6 +16,7 @@ extra_javascript = ["assets/javascripts/extra.js"]
 #repo_url = "https://github.com/rhys-vaughan/zentest"
 #edit_uri = "edit/main/docs/"
 
+
 # Navigation structure
 nav = [
    { "Home" = "index.md" },
@@ -180,7 +181,7 @@ features = [
    "search.highlight",
    "toc.follow",
    #"toc.integrate",
-   "announce.dismiss",
+   #"announce.dismiss",
    "navigation.footer",
    "navigation.indexes",
    "navigation.instant",

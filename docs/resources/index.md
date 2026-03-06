@@ -1,5 +1,5 @@
 ---
-icon: material/rocket-launch-outline
+icon: lucide/rocket
 tags:
   - Resources
 hide:
@@ -9,7 +9,7 @@ hide:
 
 # Resources
 
-<div class="grid cards" markdown>
+<div class="grid cards regular" markdown>
 
 -   ### :lucide-rocket:{ .lg .middle } &nbsp; [__Release notes__](release-notes/index.md)
 

@@ -29,6 +29,7 @@ nav = [
             "orbit/connect/data-sources/index.md",
             "orbit/connect/data-sources/file.md",
             "orbit/connect/data-sources/amazon-s3.md",
+            "orbit/connect/data-sources/salesforce.md",
          ]}
       ]},
       { "Dashboards" = [
@@ -138,6 +139,10 @@ icon = "fontawesome/solid/globe"
 link = "https://www.apteco.com/"
 name = "Insights into Action"
 [[project.extra.social]]
+icon = "fontawesome/solid/address-book"
+link = "https://www.apteco.com/contact"
+name = "Contact us"
+[[project.extra.social]]
 icon = "fontawesome/brands/x-twitter"
 link = "https://twitter.com/Apteco"
 name = "Apteco on X"
@@ -153,11 +158,6 @@ name = "Apteco on YouTube"
 icon = "fontawesome/brands/facebook"
 link = "https://www.facebook.com/Apteco"
 name = "Apteco on Facebook"
-[[project.extra.social]]
-icon = "fontawesome/solid/address-book"
-link = "https://www.apteco.com/contact"
-name = "Contact us"
-
 
 # Theme configuration
 [project.theme]

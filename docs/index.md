@@ -65,6 +65,8 @@ Everything you need to get the most out of your Apteco software.
 
 </div>
 
+<br/>
+
 ## 🚀 What's new
 
 <div class="grid cards regular" markdown>
@@ -73,13 +75,15 @@ Everything you need to get the most out of your Apteco software.
 
     Orin can generate intelligent summaries of your dashboards, providing instant overviews of the insights and visualisations they contain. 
 
-    [![Orbit headline feature](assets/images/resources/dashboard-summary.png){ width=1000 }](resources/release-notes/orbit/2026.md)
+    ![Orbit headline feature](assets/images/resources/dashboard-summary.png){ width=1000 }
 
     When you request a dashboard summary, Orin analyses the content and creates a concise description that you can share with colleagues or use to understand unfamiliar dashboards.
 
     [Read the release notes](resources/release-notes/orbit/2026.md){ .md-button .md-button--primary }
 
 </div>
+
+<br/>
 
 ## Popular pages
 
@@ -89,23 +93,25 @@ Everything you need to get the most out of your Apteco software.
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Creating a campaign](orbit/index.md)__
+    __[:octicons-arrow-right-24: Creating a campaign](orbit/campaigns/create/index.md)__
 
 -   ### Dashboard tiles
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Tiles](orbit/connect/index.md)__
+    __[:octicons-arrow-right-24: Tiles](orbit/dashboards/tiles/index.md)__
 
 -   ### Salesforce
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Salesforce](orbit/campaigns/apteco-email/index.md)__
+    __[:octicons-arrow-right-24: Salesforce](orbit/connect/data-sources/salesforce.md)__
 
 </div>
 
 ---
+
+<br/>
 
 <div class="grid cards regular" markdown>
 
@@ -115,10 +121,11 @@ Everything you need to get the most out of your Apteco software.
 
     We're here to help!
 
+    <br/>
+
     [Contact tech services](mailto:support@apteco.com){ .md-button .md-button--primary }
 
 -   ## More resources
 
-    Stay up to date with Apteco through [release notes](resources/release-notes/index.md), status updates, and the [Apteco Insider Programme](resources/insider-programme.md). You’ll also find roadmap information, [useful contacts](resources/contact.md), training courses, support services, and real customer stories, all in one place.
-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
 </div>

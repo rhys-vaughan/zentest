@@ -56,7 +56,7 @@ html .md-footer-meta.md-typeset a:not(:focus, :hover) { color: white; }
 .md-copyright { color: white; }
 
 /* =========================================
-   Homepage gradient tiles
+   Homepage tiles
    ========================================= */
 .grid.cards.home-tiles {
   --tile-gap: 1rem;
@@ -136,11 +136,46 @@ html .md-footer-meta.md-typeset a:not(:focus, :hover) { color: white; }
 
 .grid.cards.home-tiles p {
   margin: 0 0 .25rem 0;
-  color: var(--md-default-fg-color--light, #5b6570);
+  color: var(--md-default-fg-color);
 }
 
+/* Grid link stuff */
+.grid.cards.home-tiles > ul > li,
+.grid.cards.home-tiles > ol > li {
+  position: relative;
+  cursor: pointer !important; /* force "hand" cursor on the stretched link */
+}
+
+.grid.cards.home-tiles > ul > li > p:last-child > strong > a,
+.grid.cards.home-tiles > ol > li > p:last-child > strong > a {
+  position: absolute;
+  inset: 0;
+  z-index: 5;
+  display: block;
+  text-decoration: none;
+  background: transparent;
+
+  /* VISUALLY HIDE ONLY THE TEXT */
+  text-indent: -9999px;    /* safe, simple, and preserves click area */
+  overflow: hidden;
+  white-space: nowrap;
+
+  /* so the card shows pointer cursor everywhere */
+  cursor: inherit;
+}
+
+/* hide the visible “link line” paragraph */
+.grid.cards.home-tiles > ul > li > p:last-child,
+.grid.cards.home-tiles > ol > li > p:last-child {
+  margin: 0;
+  padding: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+
 /* =========================================
-   Whats New gradient tiles
+   Regular tiles
    ========================================= */
 .grid.cards.regular {
   --tile-gap: 1rem;
@@ -227,5 +262,5 @@ html .md-footer-meta.md-typeset a:not(:focus, :hover) { color: white; }
 
 .grid.cards.regular p {
   margin: 0 0 .25rem 0;
-  color: var(--md-default-fg-color--light, #5b6570);
+  color: var(--md-default-fg-color);
 }

@@ -39,6 +39,12 @@ Everything you need to get the most out of your Apteco software.
 
     __[:octicons-arrow-right-24: Channels](orbit/campaigns/apteco-email/index.md)__
 
+</div>
+
+---
+
+<div class="grid cards home-tiles" markdown>
+
 -   ![FastStats](assets/images/faststats-icon.svg){ width="70" }
 
     ### Apteco FastStats
@@ -65,6 +71,8 @@ Everything you need to get the most out of your Apteco software.
 
 </div>
 
+## New to Apteco? Use __these guides__ to get started
+
 <br/>
 
 ## 🚀 What's new
@@ -75,10 +83,12 @@ Everything you need to get the most out of your Apteco software.
 
     Orin can generate intelligent summaries of your dashboards, providing instant overviews of the insights and visualisations they contain. 
 
-    ![Orbit headline feature](assets/images/resources/dashboard-summary.png){ width=1000 }
+    ![Orbit headline feature](assets/images/resources/dashboard-summary.png){ width=900 }
 
     When you request a dashboard summary, Orin analyses the content and creates a concise description that you can share with colleagues or use to understand unfamiliar dashboards.
 
+    <br/>
+    
     [Read the release notes](resources/release-notes/orbit/2026.md){ .md-button .md-button--primary }
 
 </div>
@@ -107,11 +117,29 @@ Everything you need to get the most out of your Apteco software.
 
     __[:octicons-arrow-right-24: Salesforce](orbit/connect/data-sources/salesforce.md)__
 
+-   ### Quick messages
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    __[:octicons-arrow-right-24: Creating a campaign](orbit/campaigns/create/index.md)__
+
+-   ### Orbit release notes 2026
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    __[:octicons-arrow-right-24: Tiles](orbit/dashboards/tiles/index.md)__
+
+-   ### Filtering
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    __[:octicons-arrow-right-24: Salesforce](orbit/connect/data-sources/salesforce.md)__
+
 </div>
 
----
-
 <br/>
+
+## More resources
 
 <div class="grid cards regular" markdown>
 
@@ -123,9 +151,14 @@ Everything you need to get the most out of your Apteco software.
 
     <br/>
 
-    [Contact tech services](mailto:support@apteco.com){ .md-button .md-button--primary }
+    [:lucide-external-link: &nbsp; Support portal](https://support.apteco.com/){ .md-button .md-button--primary } &nbsp; [:lucide-mail: &nbsp; Email tech services](mailto:support@apteco.com){ .md-button .md-button--primary }
 
--   ## More resources
+-   ## Learn with Apteco academy
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+    <br/>
+
+    [Learn more](resources/training.md){ .md-button .md-button--primary }
+    
 </div>

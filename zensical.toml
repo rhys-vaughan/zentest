@@ -4,7 +4,7 @@ site_name = "Apteco docs"
 site_url = "https://help.apteco.com/"
 site_description = "Official documentation site for Apteco software products."
 site_author = "Rhys Vaughan"
-copyright = """ &copy; Apteco 2026 &nbsp; All rights reserved. """
+copyright = " &copy; Apteco 2026 &nbsp; All rights reserved. &nbsp; | &nbsp; <a href='https://www.apteco.com/privacy-policy' target='_blank'>Privacy policy</a> &nbsp; | &nbsp; <a href='https://apteco.statuspage.io/' target='_blank'>System status</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/contact' target='_blank'>Contact us</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/about' target='_blank'>About us</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/apteco-trial-system' target='_blank'>Try now</a>"
 docs_dir = "docs"
 site_dir = "site"
 use_directory_urls = true
@@ -15,7 +15,6 @@ extra_javascript = ["assets/javascripts/extra.js"]
 #repo_name = "Apteco/help-hub"
 #repo_url = "https://github.com/rhys-vaughan/zentest"
 #edit_uri = "edit/main/docs/"
-
 
 # Navigation structure
 nav = [
@@ -139,10 +138,6 @@ icon = "fontawesome/solid/globe"
 link = "https://www.apteco.com/"
 name = "Insights into Action"
 [[project.extra.social]]
-icon = "fontawesome/solid/address-book"
-link = "https://www.apteco.com/contact"
-name = "Contact us"
-[[project.extra.social]]
 icon = "fontawesome/brands/x-twitter"
 link = "https://twitter.com/Apteco"
 name = "Apteco on X"
@@ -196,6 +191,7 @@ features = [
    #"navigation.tabs.sticky",
    #"navigation.expand",
 ]
+
 
 # Project fonts
 font.text = "Poppins"

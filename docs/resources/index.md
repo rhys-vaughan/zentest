@@ -9,91 +9,79 @@ hide:
 
 # Resources
 
-<div class="grid cards regular" markdown>
+<div class="grid cards regular-clickable" markdown>
 
--   ### :lucide-rocket:{ .lg .middle } &nbsp; [__Release notes__](release-notes/index.md)
-
-    ---
+-   ### :lucide-rocket:{ .lg .middle } &nbsp; __Release notes__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-shield-plus:{ .lg .middle } &nbsp; [__Patches__](patches/index.md)
+    __[:octicons-arrow-right-24: Release notes](release-notes/index.md)__
 
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
--   ### :lucide-refresh-cw:{ .lg .middle } &nbsp; [__Technical updates__](tech-updates/index.md)
-
-    ---
+-   ### :lucide-shield-plus:{ .lg .middle } &nbsp; __Patches__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-user-star:{ .lg .middle } &nbsp; [__Apteco Insider Programme__](insider-programme.md)
+    __[:octicons-arrow-right-24: Patches](patches/index.md)__
 
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
--   ### :lucide-contact-round:{ .lg .middle } &nbsp; [__Useful contacts__](contact.md)
-
-    ---
+-   ### :lucide-refresh-cw:{ .lg .middle } &nbsp; __Technical updates__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-headset:{ .lg .middle } &nbsp; [__Technical services__](support.md)
+    __[:octicons-arrow-right-24: Release notes](tech-updates/index.md)__
 
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
--   ### :lucide-graduation-cap:{ .lg .middle } &nbsp; [__Apteco academy__](training.md)
-
-    ---
+-   ### :lucide-user-star:{ .lg .middle } &nbsp; __Apteco Insider Programme__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-route:{ .lg .middle } &nbsp; [__Software roadmap :lucide-external-link:__](https://apteco.aha.io/shared/2b8629e94e9f686fb9a5dc9e8da2f917)
+    __[:octicons-arrow-right-24: Release notes](insider-programme.md)__
 
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
--   ### :lucide-lightbulb:{ .lg .middle } &nbsp; [__Ideas portal :lucide-external-link:__](https://ideas.apteco.com/)
-
-    ---
+-   ### :lucide-contact-round:{ .lg .middle } &nbsp; __Useful contacts__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-loader:{ .lg .middle } &nbsp; [__Systems status :lucide-external-link:__](https://apteco.statuspage.io/)
+    __[:octicons-arrow-right-24: Release notes](contact.md)__
 
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
--   ### :lucide-rss:{ .lg .middle } &nbsp; [__Blog :lucide-external-link:__](https://www.apteco.com/insights)
-
-    ---
+-   ### :lucide-headset:{ .lg .middle } &nbsp; __Technical services__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-list-checks:{ .lg .middle } &nbsp; [__Customer stories :lucide-external-link:__](https://www.apteco.com/insights)
+    __[:octicons-arrow-right-24: Release notes](support.md)__
 
-    ---
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-
--   ### :lucide-heart-handshake:{ .lg .middle } &nbsp; [__Partner resources :lucide-external-link:__](https://www.apteco.com/community/international-partner-network)
-
-    ---
+-   ### :lucide-graduation-cap:{ .lg .middle } &nbsp; __Apteco academy__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
--   ### :lucide-search-check:{ .lg .middle } &nbsp; [__Try Apteco software :lucide-external-link:__](https://www.apteco.com/community/international-partner-network)
+    __[:octicons-arrow-right-24: Release notes](training.md)__
 
-    ---
+-   ### :lucide-route:{ .lg .middle } &nbsp; __Software roadmap :lucide-external-link:__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    __[:octicons-arrow-right-24: Release notes](https://apteco.aha.io/shared/2b8629e94e9f686fb9a5dc9e8da2f917)__
+
+-   ### :lucide-lightbulb:{ .lg .middle } &nbsp; __Ideas portal :lucide-external-link:__
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    __[:octicons-arrow-right-24: Release notes](https://ideas.apteco.com/)__
+
+-   ### :lucide-loader:{ .lg .middle } &nbsp; __System status :lucide-external-link:__
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    __[:octicons-arrow-right-24: Release notes](https://apteco.statuspage.io/)__
+
+-   ### :lucide-rss:{ .lg .middle } &nbsp; __Blog :lucide-external-link:__
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    __[:octicons-arrow-right-24: Release notes](https://www.apteco.com/insights)__
+
+-   ### :lucide-search-check:{ .lg .middle } &nbsp; __Try Apteco software :lucide-external-link:__
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+
+    __[:octicons-arrow-right-24: Release notes](https://www.apteco.com/apteco-trial-system)__
 
 </div>
 

@@ -175,7 +175,132 @@ html .md-footer-meta.md-typeset a:not(:focus, :hover) { color: white; }
 
 
 /* =========================================
-   Regular tiles
+   Regular tiles (clickable)
+   ========================================= */
+.grid.cards.regular-clickable {
+  --tile-gap: 1rem;
+  --tile-radius: 0.5rem;
+  --tile-outline: 1px;
+  
+  --tile-shadow: var(--md-shadow-z1, 0 2px 8px rgba(0,0,0,.08));
+  --tile-shadow-hover: var(--md-shadow-z2, 0 6px 24px rgba(0,0,0,.12));
+  --tile-bg: var(--md-default-bg-color, #fff);
+  --tile-c1: #22c1c3;
+  --tile-c2: #2196f3;
+  --tile-c3: #7b1fa2;
+  --tile-gradient: linear-gradient(135deg, #00A5AA, #8600C8);
+
+  grid-gap: var(--tile-gap);
+}
+
+.grid.cards.grid.cards.regular-clickable > ol > li,
+.grid.cards.regular-clickable > ul > li,
+.grid.cards.regular-clickable > .card {
+  position: relative;
+  background: var(--tile-bg);
+  border: 1px solid transparent;
+  border-radius: var(--tile-radius);
+  padding: 1.25rem;
+  box-shadow: var(--tile-shadow);
+  transition: transform .25s ease, box-shadow .25s ease, background-color .25s ease;
+  transform: translate3d(0, 0, 0);
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
+.grid.cards.regular-clickable > ol > li::before,
+.grid.cards.regular-clickable > ul > li::before,
+.grid.cards.regular-clickable > .card::before {
+  content: "";
+  position: absolute;
+
+  /* FIX: expand the gradient border outward to match the Zensical card edge */
+  inset: calc(var(--tile-outline) * -1);
+
+  border-radius: inherit;
+  padding: var(--tile-outline);
+  background: var(--tile-gradient);
+
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+          mask-composite: exclude;
+
+  pointer-events: none;
+}
+
+.grid.cards.regular-clickable > ol > li::after,
+.grid.cards.regular-clickable > ul > li::after,
+.grid.cards.regular-clickable > .card::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: var(--tile-bottom-bar);
+  background: var(--tile-gradient);
+  border-bottom-left-radius: calc(var(--tile-radius) - 1px);
+  border-bottom-right-radius: calc(var(--tile-radius) - 1px);
+  pointer-events: none;
+}
+
+.grid.cards.regular-clickable > ol > li:hover,
+.grid.cards.regular-clickable > ul > li:hover,
+.grid.cards.regular-clickable > .card:hover,
+.grid.cards.regular-clickable > ol > li:focus-within,
+.grid.cards.regular-clickable > ul > li:focus-within,
+.grid.cards.regular-clickable > .card:focus-within,
+.grid.cards.regular a.card-stretch:focus {
+  transform: translate3d(0, -2px, 0);
+  box-shadow: var(--tile-shadow-hover);
+  border-color: transparent !important;
+}
+
+.grid.cards.grid.cards.regular-clickable h3,
+.grid.cards.regular h4 {
+  margin: .4rem 0 .25rem 0;
+}
+
+.grid.cards.grid.cards.regular-clickable p {
+  margin: 0 0 .25rem 0;
+  color: var(--md-default-fg-color);
+}
+
+/* Grid link stuff */
+.grid.cards.regular-clickable > ul > li,
+.grid.cards.regular-clickable > ol > li {
+  position: relative;
+  cursor: pointer !important; /* force "hand" cursor on the stretched link */
+}
+
+.grid.cards.regular-clickable > ul > li > p:last-child > strong > a,
+.grid.cards.regular-clickable > ol > li > p:last-child > strong > a {
+  position: absolute;
+  inset: 0;
+  z-index: 5;
+  display: block;
+  text-decoration: none;
+  background: transparent;
+
+  /* VISUALLY HIDE ONLY THE TEXT */
+  text-indent: -9999px;    /* safe, simple, and preserves click area */
+  overflow: hidden;
+  white-space: nowrap;
+
+  /* so the card shows pointer cursor everywhere */
+  cursor: inherit;
+}
+
+/* hide the visible “link line” paragraph */
+.grid.cards.regular-clickable > ul > li > p:last-child,
+.grid.cards.regular-clickable > ol > li > p:last-child {
+  margin: 0;
+  padding: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+/* =========================================
+   Regular tiles (not clickable)
    ========================================= */
 .grid.cards.regular {
   --tile-gap: 1rem;

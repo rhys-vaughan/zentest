@@ -8,7 +8,7 @@ hide:
 
 # Useful contacts
 
-- __General enquiries__ - [apteco.com/contact](https://www.apteco.com/contact)
+- __General enquiries__ - [apteco.com/contact](https://www.apteco.com/contact){ target="_blank" }
 - __Training and Apteco academy__ - <training@apteco.com>
 - __Technical services__ - <support@apteco.com>
 - __Licenses and renewals__ - <licensing@apteco.com>

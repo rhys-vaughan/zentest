@@ -23,7 +23,7 @@ Everything you need to get the most out of your Apteco software.
 
     __[:octicons-arrow-right-24: Orbit](orbit/index.md)__
 
--   ![Connect](assets/images/icon-orbit-connect-navy.png){ width="70" }
+-   ![Connect](assets/images/orbit-connect-icon.png){ width="70" }
 
     ### Apteco Customer Data Platform
 
@@ -31,7 +31,7 @@ Everything you need to get the most out of your Apteco software.
 
     __[:octicons-arrow-right-24: Connect](orbit/connect/index.md)__
 
--   ![Apteco Email & SMS](assets/images/icon-orbit-campaign-navy.png){ width="70" }
+-   ![Apteco Email & SMS](assets/images/orbit-campaign-icon.png){ width="70" }
 
     ### Apteco Email and SMS
 
@@ -71,7 +71,7 @@ Everything you need to get the most out of your Apteco software.
 
 </div>
 
-## New to Apteco? Use __these guides__ to get started
+## New to Apteco? __:octicons-arrow-right-24:__ [__Start here__](admin/getting-started.md)
 
 <br/>
 
@@ -151,7 +151,7 @@ Everything you need to get the most out of your Apteco software.
 
     <br/>
 
-    [:lucide-external-link: &nbsp; Support portal](https://support.apteco.com/){ .md-button .md-button--primary } &nbsp; [:lucide-mail: &nbsp; Email tech services](mailto:support@apteco.com){ .md-button .md-button--primary }
+    [:lucide-external-link: &nbsp; Support portal](https://support.apteco.com/){ .md-button .md-button--primary target="_blank" } &nbsp; [:lucide-mail: &nbsp; Email tech services](mailto:support@apteco.com){ .md-button .md-button--primary target="_blank" }
 
 -   ## Learn with Apteco academy
 

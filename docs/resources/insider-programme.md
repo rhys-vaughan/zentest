@@ -12,4 +12,4 @@ Join the Apteco Insider Programme to get early access to upcoming features and t
 
 Once you've joined, you'll receive regular updates about new preview features and opportunities to participate in early testing.
 
-[Join the Insider Programme](https://portal.apteco.com/insider-programme){ .md-button .md-button--primary }
+[Join the Insider Programme](https://portal.apteco.com/insider-programme){ .md-button .md-button--primary target="_blank" }

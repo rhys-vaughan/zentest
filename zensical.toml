@@ -1,22 +1,21 @@
 [project]
+# =========================================
 # Top-level settings
+# =========================================
 site_name = "Apteco docs"
 site_url = "https://help.apteco.com/"
 site_description = "Official documentation site for Apteco software products."
 site_author = "Rhys Vaughan"
-copyright = " &copy; Apteco 2026 &nbsp; All rights reserved. &nbsp; | &nbsp; <a href='https://www.apteco.com/privacy-policy' target='_blank'>Privacy policy</a> &nbsp; | &nbsp; <a href='https://apteco.statuspage.io/' target='_blank'>System status</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/contact' target='_blank'>Contact us</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/about' target='_blank'>About us</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/apteco-trial-system' target='_blank'>Try now</a>"
+copyright = " &copy; Apteco 2026 &nbsp; All rights reserved. &nbsp; | &nbsp; <a href='https://www.apteco.com/privacy-policy' target='_blank'>Privacy policy</a> &nbsp; | &nbsp; <a href='https://apteco.statuspage.io/' target='_blank'>System status</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/contact' target='_blank'>Contact us</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/about' target='_blank'>About</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/apteco-trial-system' target='_blank'>Try now</a>  &nbsp; | &nbsp; <a href='https://www.apteco.com/' target='_blank'>GDPR</a>"
 docs_dir = "docs"
 site_dir = "site"
 use_directory_urls = true
-# Extra CSS/JS
 extra_css = ["assets/stylesheets/extra.css"]
 extra_javascript = ["assets/javascripts/extra.js"]
-# Repository information
-#repo_name = "Apteco/help-hub"
-#repo_url = "https://github.com/rhys-vaughan/zentest"
-#edit_uri = "edit/main/docs/"
 
+# =========================================
 # Navigation structure
+# =========================================
 nav = [
    { "Home" = "index.md" },
    { "Orbit" = [
@@ -103,6 +102,7 @@ nav = [
 
    { "Admin" = [
       "admin/index.md",
+      { "Getting started" = "admin/getting-started.md" },
       { "Requirements and prerequisites" = "admin/requirements-and-prerequisites/index.md" },
       { "Installation" = "admin/installation/index.md" },
       { "Configuration" = "admin/configuration/index.md" },
@@ -114,11 +114,23 @@ nav = [
    { "apteco.com" = "https://www.apteco.com" },
 ]
 
-# Extra settings
-[project.extra]
-# generator = false
+# =========================================
+# Repository information
+# =========================================
+#repo_name = "Apteco/help-hub"
+#repo_url = "https://github.com/rhys-vaughan/zentest"
+#edit_uri = "edit/main/docs/"
 
+[project.extra]
+
+# =========================================
+# Generator notice
+# =========================================
+#generator = false
+
+# =========================================
 # Project tags
+# =========================================
 [project.extra.tags]
 Orbit = "Orbit"
 FastStats = "FastStats"
@@ -127,12 +139,16 @@ Designer = "Designer"
 Admin = "Admin"
 Resources = "Resources"
 
+# =========================================
 # Status labels
+# =========================================
 [project.extra.status]
 new = "Recently added"
 deprecated = "Deprecated"
 
+# =========================================
 # Socials
+# =========================================
 [[project.extra.social]]
 icon = "fontawesome/solid/globe"
 link = "https://www.apteco.com/"
@@ -154,7 +170,9 @@ icon = "fontawesome/brands/facebook"
 link = "https://www.facebook.com/Apteco"
 name = "Apteco on Facebook"
 
+# =========================================
 # Theme configuration
+# =========================================
 [project.theme]
 language = "en"
 custom_dir = "overrides"
@@ -162,7 +180,9 @@ options.custom_icons = ["overrides/.icons"]
 logo = "assets/images/apteco-logo-icon.svg"
 favicon = "assets/images/apteco-logo-icon.svg"
 
+# =========================================
 # Theme features
+# =========================================
 features = [
    #"content.action.edit",
    #"content.action.view",
@@ -192,21 +212,26 @@ features = [
    #"navigation.expand",
 ]
 
-
+# =========================================
 # Project fonts
+# =========================================
 font.text = "Poppins"
 font.code = "JetBrains Mono"
 
+# =========================================
 # Project icons
+# =========================================
 [project.theme.icon]
 admonition = {note = "lucide/square-pen", example = "lucide/book-open-text", success = "lucide/rocket"}
 
+# =========================================
+# Pallettes and palette toggles
+# =========================================
 # Palette toggle for automatic mode
 [[project.theme.palette]]
 media = "(prefers-color-scheme)"
 toggle.icon = "lucide/sun-moon"
 toggle.name = "Switch to light mode"
-
 # Palette toggle for light mode
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
@@ -214,7 +239,6 @@ scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 primary = "custom"
-
 # Palette toggle for dark mode
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"

@@ -27,7 +27,6 @@
 
 /* =========================================
    Repo source area – collapse completely
-   (IMPORTANT: frees right-side space)
    ========================================= */
 .md-header__source {
   /* Was: visibility:hidden (kept the space) */
@@ -193,7 +192,7 @@ html .md-footer-meta.md-typeset a:not(:focus, :hover) { color: white; }
   grid-gap: var(--tile-gap);
 }
 
-.grid.cards.grid.cards.regular-clickable > ol > li,
+.grid.cards.regular-clickable > ol > li,
 .grid.cards.regular-clickable > ul > li,
 .grid.cards.regular-clickable > .card {
   position: relative;
@@ -255,12 +254,12 @@ html .md-footer-meta.md-typeset a:not(:focus, :hover) { color: white; }
   border-color: transparent !important;
 }
 
-.grid.cards.grid.cards.regular-clickable h3,
-.grid.cards.regular h4 {
+.grid.cards.regular-clickable h3,
+.grid.cards.regular-clickable h4 {
   margin: .4rem 0 .25rem 0;
 }
 
-.grid.cards.grid.cards.regular-clickable p {
+.grid.cards.regular-clickable p {
   margin: 0 0 .25rem 0;
   color: var(--md-default-fg-color);
 }

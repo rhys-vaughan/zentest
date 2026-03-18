@@ -151,7 +151,7 @@ Everything you need to get the most out of your Apteco software.
 
     <br/>
 
-    [:lucide-external-link: &nbsp; Support portal](https://support.apteco.com/){ .md-button .md-button--primary target="_blank" } &nbsp; &nbsp; [:lucide-mail: &nbsp; Email tech services](mailto:support@apteco.com){ .md-button .md-button--primary target="_blank" }
+    [:lucide-external-link: &nbsp; Support portal](https://support.apteco.com/){ .md-button .md-button--primary target="_blank" } &nbsp; [:lucide-mail: &nbsp; Email tech services](mailto:support@apteco.com){ .md-button .md-button--primary target="_blank" }
 
 -   ## Learn with Apteco academy
 

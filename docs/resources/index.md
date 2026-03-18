@@ -57,31 +57,31 @@ hide:
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Release notes](https://apteco.aha.io/shared/2b8629e94e9f686fb9a5dc9e8da2f917)__
+    __[:octicons-arrow-right-24: Release notes](https://apteco.aha.io/shared/2b8629e94e9f686fb9a5dc9e8da2f917){ target="_blank" }__
 
 -   ### :lucide-lightbulb:{ .lg .middle } &nbsp; __Ideas portal :lucide-external-link:__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Release notes](https://ideas.apteco.com/)__
+    __[:octicons-arrow-right-24: Release notes](https://ideas.apteco.com/){ target="_blank" }__
 
 -   ### :lucide-loader:{ .lg .middle } &nbsp; __System status :lucide-external-link:__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Release notes](https://apteco.statuspage.io/)__
+    __[:octicons-arrow-right-24: Release notes](https://status.apteco.com/){ target="_blank" }__
 
 -   ### :lucide-rss:{ .lg .middle } &nbsp; __Blog :lucide-external-link:__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Release notes](https://www.apteco.com/insights)__
+    __[:octicons-arrow-right-24: Release notes](https://www.apteco.com/insights){ target="_blank" }__
 
 -   ### :lucide-search-check:{ .lg .middle } &nbsp; __Try Apteco software :lucide-external-link:__
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Release notes](https://www.apteco.com/apteco-trial-system)__
+    __[:octicons-arrow-right-24: Release notes](https://www.apteco.com/apteco-trial-system){ target="_blank" }__
 
 </div>
 

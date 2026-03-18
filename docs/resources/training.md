@@ -8,5 +8,5 @@ hide:
 
 # Training
 
-- [learning.apteco.com](https://learning.apteco.com/)
-- [portal.apteco.com/training](https://portal.apteco.com/training).
+- [learning.apteco.com](https://learning.apteco.com/){ target="_blank" }
+- [portal.apteco.com/training](https://portal.apteco.com/training){ target="_blank" }

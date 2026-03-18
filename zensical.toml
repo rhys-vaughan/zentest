@@ -6,7 +6,7 @@ site_name = "Apteco docs"
 site_url = "https://help.apteco.com/"
 site_description = "Official documentation site for Apteco software products."
 site_author = "Rhys Vaughan"
-copyright = " &copy; Apteco 2026 &nbsp; All rights reserved. &nbsp; | &nbsp; <a href='https://www.apteco.com/privacy-policy' target='_blank'>Privacy policy</a> &nbsp; | &nbsp; <a href='https://apteco.statuspage.io/' target='_blank'>System status</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/contact' target='_blank'>Contact us</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/about' target='_blank'>About</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/apteco-trial-system' target='_blank'>Try now</a>  &nbsp; | &nbsp; <a href='https://www.apteco.com/' target='_blank'>GDPR</a>"
+copyright = " &copy; Apteco 2026 &nbsp; All rights reserved. &nbsp; | &nbsp; <a href='https://www.apteco.com/privacy-policy' target='_blank'>Privacy policy</a> &nbsp; | &nbsp; <a href='https://status.apteco.com/' target='_blank'>System status</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/contact' target='_blank'>Contact us</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/about' target='_blank'>About</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/apteco-trial-system' target='_blank'>Try now</a>  &nbsp; | &nbsp; <a href='https://www.apteco.com/' target='_blank'>GDPR</a>"
 docs_dir = "docs"
 site_dir = "site"
 use_directory_urls = true
@@ -34,6 +34,7 @@ nav = [
          "orbit/dashboards/index.md",
          { "Creating a dashboard" = "orbit/dashboards/create/index.md" },
          { "Tiles" = "orbit/dashboards/tiles/index.md" },
+         { "Filtering" = "orbit/dashboards/filtering/index.md" },
       ]},
       { "Audiences" = [
          "orbit/audiences/index.md",
@@ -42,6 +43,7 @@ nav = [
       { "Campaigns" = [
          "orbit/campaigns/index.md",
          { "Creating a campaign" = "orbit/campaigns/create/index.md" },
+         { "Quick messages" = "orbit/campaigns/quick-messages.md" },
          { "Apteco email" = "orbit/campaigns/apteco-email/index.md" },
       ]},
       { "Orin AI assistant" = "orbit/orin/index.md"},
@@ -196,7 +198,7 @@ features = [
    "search.highlight",
    "toc.follow",
    #"toc.integrate",
-   #"announce.dismiss",
+   "announce.dismiss",
    "navigation.footer",
    "navigation.indexes",
    "navigation.instant",

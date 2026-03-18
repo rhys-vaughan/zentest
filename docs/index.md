@@ -121,19 +121,19 @@ Everything you need to get the most out of your Apteco software.
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Creating a campaign](orbit/campaigns/create/index.md)__
+    __[:octicons-arrow-right-24: Creating a campaign](orbit/campaigns/quick-messages.md)__
 
 -   ### Orbit release notes 2026
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Tiles](orbit/dashboards/tiles/index.md)__
+    __[:octicons-arrow-right-24: Tiles](resources/release-notes/orbit/2026.md)__
 
 -   ### Filtering
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
 
-    __[:octicons-arrow-right-24: Salesforce](orbit/connect/data-sources/salesforce.md)__
+    __[:octicons-arrow-right-24: Salesforce](orbit/dashboards/filtering/index.md)__
 
 </div>
 
@@ -151,7 +151,7 @@ Everything you need to get the most out of your Apteco software.
 
     <br/>
 
-    [:lucide-external-link: &nbsp; Support portal](https://support.apteco.com/){ .md-button .md-button--primary target="_blank" } &nbsp; [:lucide-mail: &nbsp; Email tech services](mailto:support@apteco.com){ .md-button .md-button--primary target="_blank" }
+    [:lucide-external-link: &nbsp; Support portal](https://support.apteco.com/){ .md-button .md-button--primary target="_blank" } &nbsp; &nbsp; [:lucide-mail: &nbsp; Email tech services](mailto:support@apteco.com){ .md-button .md-button--primary target="_blank" }
 
 -   ## Learn with Apteco academy
 

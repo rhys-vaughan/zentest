@@ -84,12 +84,12 @@ html .md-footer-meta.md-typeset a:not(:focus, :hover) { color: white; }
 .grid.cards.regular-clickable {
   --tile-gap: 1rem;
   --tile-radius: .5rem;
-  --tile-outline: 2px;
+  --tile-outline: 1px;
   --tile-bottom-bar: 8px;
   --tile-shadow: var(--md-shadow-z1,0 2px 8px rgba(0,0,0,.08));
   --tile-shadow-hover: var(--md-shadow-z2,0 6px 24px rgba(0,0,0,.12));
   --tile-bg: var(--md-default-bg-color,#fff);
-  --tile-gradient: linear-gradient(135deg,#00A5AA,#8600C8);
+  --tile-gradient: linear-gradient(90deg,#00A5AA,#8600C8);
   gap: var(--tile-gap);
 }
 

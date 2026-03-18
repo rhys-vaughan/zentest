@@ -19,7 +19,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco Orbit
 
-    Analyse data and manage targeted campaigns, all on one intuitive platform.
+    Marketing insights platform for data analysis and campaign management.
 
     __[:octicons-arrow-right-24: Orbit](orbit/index.md)__
 
@@ -27,7 +27,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco Customer Data Platform
 
-    Unify your customer data in the Apteco Cloud to activate personalised campaigns.
+    Unify customer datasets from external sources in the Apteco Cloud.
 
     __[:octicons-arrow-right-24: Connect](orbit/connect/index.md)__
 
@@ -35,7 +35,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco Email and SMS
 
-    Automate journeys and supercharge your email and SMS marketing.
+    Automate and manage email and SMS campaigns.
 
     __[:octicons-arrow-right-24: Channels](orbit/campaigns/apteco-email/index.md)__
 
@@ -49,7 +49,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco FastStats
 
-    Analyse millions of customer data records in seconds and turn your insights into action.
+    Analyse large customer datasets to generate actionable insights.
 
     __[:octicons-arrow-right-24: FastStats](faststats/index.md)__
 
@@ -57,7 +57,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### Apteco PeopleStage
 
-    Build powerful campaigns and orchestrate journeys across all your channels.
+    Create multi-channel campaigns and customer journeys.
 
     __[:octicons-arrow-right-24: PeopleStage](peoplestage/index.md)__
 
@@ -65,7 +65,7 @@ Everything you need to get the most out of your Apteco software.
 
     ### FastStats Designer
 
-    Configure and build powerful FastStats databases from external data sources.
+    Configure and build FastStats databases from external data sources.
 
     __[:octicons-arrow-right-24: Designer](designer/index.md)__
 
@@ -73,7 +73,7 @@ Everything you need to get the most out of your Apteco software.
 
 ## New to Apteco? __:octicons-arrow-right-24:__ [__Start here__](admin/getting-started.md)
 
-<br/>
+<br>
 
 ## 🚀 What's new
 
@@ -87,15 +87,15 @@ Everything you need to get the most out of your Apteco software.
 
     When you request a dashboard summary, Orin analyses the content and creates a concise description that you can share with colleagues or use to understand unfamiliar dashboards.
 
-    <br/>
+    <br>
     
     [Read the release notes](resources/release-notes/orbit/2026.md){ .md-button .md-button--primary }
 
 </div>
 
-<br/>
+<br>
 
-## Popular pages
+## Popular pages this week
 
 <div class="grid cards home-tiles" markdown>
 
@@ -137,27 +137,27 @@ Everything you need to get the most out of your Apteco software.
 
 </div>
 
-<br/>
+<br>
 
 ## More resources
 
 <div class="grid cards regular" markdown>
 
--   ## Need support?
+-   ### Need support?
 
     If you didn't find the answer you're looking for, don't worry.
 
     We're here to help!
 
-    <br/>
+    <br>
 
     [:lucide-external-link: &nbsp; Support portal](https://support.apteco.com/){ .md-button .md-button--primary target="_blank" } &nbsp; [:lucide-mail: &nbsp; Email tech services](mailto:support@apteco.com){ .md-button .md-button--primary target="_blank" }
 
--   ## Learn with Apteco academy
+-   ### Learn with Apteco academy
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-    <br/>
+    <br>
 
     [Learn more](resources/training.md){ .md-button .md-button--primary }
     

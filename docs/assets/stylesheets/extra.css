@@ -76,6 +76,39 @@ html .md-footer-meta.md-typeset a:not(:focus, :hover) { color: white; }
   }
 }
 
+/* =========================================
+   Home page icons
+   ========================================= */
+.home-icons {
+  font-size: 1.7em;
+}
+
+/* ==========================================================
+   TWO-COLUMN LINK LAYOUT (for homepage)
+   ========================================================== */
+.hs-two-columns {
+  display: grid;
+  grid-template-columns: repeat(3, max-content);
+  justify-content: center;       /* center the columns like screenshot */
+  column-gap: 4rem;              /* spacing between columns */
+  row-gap: .75rem;               /* spacing between rows */
+  margin: 2rem 0 3rem;
+  text-align: left;
+}
+.hs-two-columns a {
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: var(--md-default-fg-color); 
+}
+/* Mobile responsiveness */
+@media (max-width: 800px) {
+  .hs-two-columns {
+    grid-template-columns: 1fr;
+    justify-content: flex-start;
+  }
+}
+
 /* ==========================================================
    SHARED TILE VARIABLES (all tile groups)
    ========================================================== */

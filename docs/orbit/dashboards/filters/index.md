@@ -5,4 +5,4 @@ hide:
   - tags
 ---
 
-# Filtering
+# Filters

@@ -6,12 +6,13 @@ site_name = "Apteco docs"
 site_url = "https://help.apteco.com/"
 site_description = "Official documentation site for Apteco software products."
 site_author = "Rhys Vaughan"
-copyright = " &copy; Apteco 2026 &nbsp; All rights reserved. &nbsp; | &nbsp; <a href='https://www.apteco.com/privacy-policy' target='_blank'>Privacy policy</a> &nbsp; | &nbsp; <a href='https://status.apteco.com/' target='_blank'>System status</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/contact' target='_blank'>Contact us</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/about' target='_blank'>About</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/apteco-trial-system' target='_blank'>Try now</a>  &nbsp; | &nbsp; <a href='https://www.apteco.com/' target='_blank'>GDPR</a>"
+copyright = " &copy; Apteco 2026 &nbsp; All rights reserved. &nbsp; | &nbsp; <a href='https://www.apteco.com/privacy-policy' target='_blank'>Privacy policy</a> &nbsp; | &nbsp; <a href='https://status.apteco.com/' target='_blank'>System status</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/community/find-a-partner' target='_blank'>Partner directory</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/products/pricing' target='_blank'>Pricing</a> &nbsp; | &nbsp; <a href='https://www.apteco.com/contact' target='_blank'>Contact us</a>"
 docs_dir = "docs"
 site_dir = "site"
 use_directory_urls = true
 extra_css = ["assets/stylesheets/extra.css"]
 extra_javascript = ["assets/javascripts/extra.js"]
+
 
 # =========================================
 # Navigation structure
@@ -33,8 +34,14 @@ nav = [
       { "Dashboards" = [
          "orbit/dashboards/index.md",
          { "Creating a dashboard" = "orbit/dashboards/create/index.md" },
-         { "Tiles" = "orbit/dashboards/tiles/index.md" },
-         { "Filtering" = "orbit/dashboards/filtering/index.md" },
+         { "Tiles" = [
+            "orbit/dashboards/tiles/index.md",
+            { "ROI number tile" = "orbit/dashboards/tiles/roi.md" },
+         ]},
+         { "Filters" = [
+            "orbit/dashboards/filters/index.md",
+            { "Analysis filters" = "orbit/dashboards/filters/analysis.md" },
+         ]},
       ]},
       { "Audiences" = [
          "orbit/audiences/index.md",
@@ -45,6 +52,7 @@ nav = [
          { "Creating a campaign" = "orbit/campaigns/create/index.md" },
          { "Quick messages" = "orbit/campaigns/quick-messages.md" },
          { "Apteco email" = "orbit/campaigns/apteco-email/index.md" },
+         { "UTM code tracking" = "orbit/campaigns/utm.md" },
       ]},
       { "Orin AI assistant" = "orbit/orin/index.md"},
    ]},
@@ -86,6 +94,7 @@ nav = [
 
    { "Resources" = [
       "resources/index.md",
+      { "Getting started" = "resources/getting-started.md" },
       { "Release notes" = [
          "resources/release-notes/index.md",
          { "Orbit release notes" = [
@@ -104,7 +113,6 @@ nav = [
 
    { "Admin" = [
       "admin/index.md",
-      { "Getting started" = "admin/getting-started.md" },
       { "Requirements and prerequisites" = "admin/requirements-and-prerequisites/index.md" },
       { "Installation" = "admin/installation/index.md" },
       { "Configuration" = "admin/configuration/index.md" },
